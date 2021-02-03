@@ -10,9 +10,9 @@ Sto documentando la metodologia utilizzata, a breve la renderò pubblica.
 
 | Nome Campo                | Descrizione                      | Formato                                        | Esempio    |
 |---------------------------|----------------------------------|------------------------------------------------|------------|
-| **data**                  | Data dell'informazione           | YYYY-MM-DD                                     | 2020-12-20 |
-| **denominazione_regione** | Denominazione della regione      | stringa                                        | Abruzzo    |
-| **colore**                | Livello di rischio della regione | 'rosso' \| 'arancione' \| 'giallo' \| 'bianco' | rosso      |
+| data                      | Data dell'informazione           | YYYY-MM-DD                                     | 2020-12-20 |
+| denominazione_regione     | Denominazione della regione      | stringa                                        | Abruzzo    |
+| colore                    | Livello di rischio della regione | 'rosso' \| 'arancione' \| 'giallo' \| 'bianco' | rosso      |
 
 ---
 
@@ -29,6 +29,6 @@ I am documenting the methodology used and I will soon make it public.
 
 | Field name                | Description                      | Format                                         | Example    |
 |---------------------------|----------------------------------|------------------------------------------------|------------|
-| **data**                  | Date of notification             | YYYY-MM-DD                                     | 2020-12-20 |
-| **denominazione_regione** | Name of the Region               | string                                         | Abruzzo    |
-| **colore**                | Level of risk of the region      | 'rosso' \| 'arancione' \| 'giallo' \| 'bianco' | rosso      |
+| data                      | Date of notification             | YYYY-MM-DD                                     | 2020-12-20 |
+| denominazione_regione     | Name of the Region               | string                                         | Abruzzo    |
+| colore                    | Level of risk of the region      | 'rosso' \| 'arancione' \| 'giallo' \| 'bianco' | rosso      |
