@@ -12,7 +12,7 @@ Sto documentando la metodologia utilizzata, a breve la renderò pubblica.
 |---------------------------|----------------------------------|------------------------------------------------|------------|
 | **data**                  | Data dell'informazione           | YYYY-MM-DD                                     | 2020-12-20 |
 | **denominazione_regione** | Denominazione della regione      | stringa                                        | Abruzzo    |
-| **colore**                | Livello di rischio della regione | 'rosso' \| 'arancione' \| 'giallo' \| 'bianco' | Rosso      |
+| **colore**                | Livello di rischio della regione | 'rosso' \| 'arancione' \| 'giallo' \| 'bianco' | rosso      |
 
 ---
 
@@ -31,4 +31,4 @@ I am documenting the methodology used and I will soon make it public.
 |---------------------------|----------------------------------|------------------------------------------------|------------|
 | **data**                  | Date of notification             | YYYY-MM-DD                                     | 2020-12-20 |
 | **denominazione_regione** | Name of the Region               | string                                         | Abruzzo    |
-| **colore**                | Livello di rischio della regione | 'rosso' \| 'arancione' \| 'giallo' \| 'bianco' | Rosso      |
+| **colore**                | Livello di rischio della regione | 'rosso' \| 'arancione' \| 'giallo' \| 'bianco' | rosso      |
