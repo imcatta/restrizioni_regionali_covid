@@ -1,1891 +1,1891 @@
 data,regione,colore,denominazione_regione
-2020-11-06,Abruzzo,giallo,
-2020-11-07,Abruzzo,giallo,
-2020-11-08,Abruzzo,giallo,
-2020-11-09,Abruzzo,giallo,
-2020-11-10,Abruzzo,arancione,
-2020-11-11,Abruzzo,arancione,
-2020-11-12,Abruzzo,arancione,
-2020-11-13,Abruzzo,arancione,
-2020-11-14,Abruzzo,arancione,
-2020-11-15,Abruzzo,arancione,
-2020-11-16,Abruzzo,arancione,
-2020-11-17,Abruzzo,arancione,
-2020-11-18,Abruzzo,arancione,
-2020-11-19,Abruzzo,arancione,
-2020-11-20,Abruzzo,arancione,
-2020-11-21,Abruzzo,arancione,
-2020-11-22,Abruzzo,rosso,
-2020-11-23,Abruzzo,rosso,
-2020-11-24,Abruzzo,rosso,
-2020-11-25,Abruzzo,rosso,
-2020-11-26,Abruzzo,rosso,
-2020-11-27,Abruzzo,rosso,
-2020-11-28,Abruzzo,rosso,
-2020-11-29,Abruzzo,rosso,
-2020-11-30,Abruzzo,rosso,
-2020-12-01,Abruzzo,rosso,
-2020-12-02,Abruzzo,rosso,
-2020-12-03,Abruzzo,rosso,
-2020-12-04,Abruzzo,rosso,
-2020-12-05,Abruzzo,rosso,
-2020-12-06,Abruzzo,rosso,
-2020-12-07,Abruzzo,rosso,
-2020-12-08,Abruzzo,rosso,
-2020-12-09,Abruzzo,rosso,
-2020-12-10,Abruzzo,rosso,
-2020-12-11,Abruzzo,rosso,
-2020-12-12,Abruzzo,rosso,
-2020-12-13,Abruzzo,arancione,
-2020-12-14,Abruzzo,arancione,
-2020-12-15,Abruzzo,arancione,
-2020-12-16,Abruzzo,arancione,
-2020-12-17,Abruzzo,arancione,
-2020-12-18,Abruzzo,arancione,
-2020-12-19,Abruzzo,arancione,
-2020-12-20,Abruzzo,arancione,
-2020-12-21,Abruzzo,arancione,
-2020-12-22,Abruzzo,arancione,
-2020-12-23,Abruzzo,arancione,
-2020-12-24,Abruzzo,rosso,
-2020-12-25,Abruzzo,rosso,
-2020-12-26,Abruzzo,rosso,
-2020-12-27,Abruzzo,rosso,
-2020-12-28,Abruzzo,arancione,
-2020-12-29,Abruzzo,arancione,
-2020-12-30,Abruzzo,arancione,
-2020-12-31,Abruzzo,rosso,
-2021-01-01,Abruzzo,rosso,
-2021-01-02,Abruzzo,rosso,
-2021-01-03,Abruzzo,rosso,
-2021-01-04,Abruzzo,arancione,
-2021-01-05,Abruzzo,rosso,
-2021-01-06,Abruzzo,rosso,
-2021-01-07,Abruzzo,giallo,
-2021-01-08,Abruzzo,giallo,
-2021-01-09,Abruzzo,arancione,
-2021-01-10,Abruzzo,giallo,
-2021-01-11,Abruzzo,giallo,
-2021-01-12,Abruzzo,giallo,
-2021-01-13,Abruzzo,giallo,
-2021-01-14,Abruzzo,giallo,
-2021-01-15,Abruzzo,giallo,
-2021-01-16,Abruzzo,giallo,
-2021-01-17,Abruzzo,arancione,
-2021-01-18,Abruzzo,arancione,
-2021-01-19,Abruzzo,arancione,
-2021-01-20,Abruzzo,arancione,
-2021-01-21,Abruzzo,arancione,
-2021-01-22,Abruzzo,arancione,
-2021-01-23,Abruzzo,arancione,
-2021-01-24,Abruzzo,arancione,
-2021-01-25,Abruzzo,arancione,
-2021-01-26,Abruzzo,arancione,
-2021-01-27,Abruzzo,arancione,
-2021-01-28,Abruzzo,arancione,
-2021-01-29,Abruzzo,arancione,
-2021-01-30,Abruzzo,arancione,
-2021-01-31,Abruzzo,arancione,
-2021-02-01,Abruzzo,giallo,
-2021-02-02,Abruzzo,giallo,
-2021-02-03,Abruzzo,giallo,
-2020-11-06,Basilicata,giallo,
-2020-11-07,Basilicata,giallo,
-2020-11-08,Basilicata,giallo,
-2020-11-09,Basilicata,giallo,
-2020-11-10,Basilicata,arancione,
-2020-11-11,Basilicata,arancione,
-2020-11-12,Basilicata,arancione,
-2020-11-13,Basilicata,arancione,
-2020-11-14,Basilicata,arancione,
-2020-11-15,Basilicata,arancione,
-2020-11-16,Basilicata,arancione,
-2020-11-17,Basilicata,arancione,
-2020-11-18,Basilicata,arancione,
-2020-11-19,Basilicata,arancione,
-2020-11-20,Basilicata,arancione,
-2020-11-21,Basilicata,arancione,
-2020-11-22,Basilicata,arancione,
-2020-11-23,Basilicata,arancione,
-2020-11-24,Basilicata,arancione,
-2020-11-25,Basilicata,arancione,
-2020-11-26,Basilicata,arancione,
-2020-11-27,Basilicata,arancione,
-2020-11-28,Basilicata,arancione,
-2020-11-29,Basilicata,arancione,
-2020-11-30,Basilicata,arancione,
-2020-12-01,Basilicata,arancione,
-2020-12-02,Basilicata,arancione,
-2020-12-03,Basilicata,arancione,
-2020-12-04,Basilicata,arancione,
-2020-12-05,Basilicata,arancione,
-2020-12-06,Basilicata,arancione,
-2020-12-07,Basilicata,arancione,
-2020-12-08,Basilicata,arancione,
-2020-12-09,Basilicata,arancione,
-2020-12-10,Basilicata,arancione,
-2020-12-11,Basilicata,arancione,
-2020-12-12,Basilicata,arancione,
-2020-12-13,Basilicata,giallo,
-2020-12-14,Basilicata,giallo,
-2020-12-15,Basilicata,giallo,
-2020-12-16,Basilicata,giallo,
-2020-12-17,Basilicata,giallo,
-2020-12-18,Basilicata,giallo,
-2020-12-19,Basilicata,giallo,
-2020-12-20,Basilicata,giallo,
-2020-12-21,Basilicata,giallo,
-2020-12-22,Basilicata,giallo,
-2020-12-23,Basilicata,giallo,
-2020-12-24,Basilicata,rosso,
-2020-12-25,Basilicata,rosso,
-2020-12-26,Basilicata,rosso,
-2020-12-27,Basilicata,rosso,
-2020-12-28,Basilicata,arancione,
-2020-12-29,Basilicata,arancione,
-2020-12-30,Basilicata,arancione,
-2020-12-31,Basilicata,rosso,
-2021-01-01,Basilicata,rosso,
-2021-01-02,Basilicata,rosso,
-2021-01-03,Basilicata,rosso,
-2021-01-04,Basilicata,arancione,
-2021-01-05,Basilicata,rosso,
-2021-01-06,Basilicata,rosso,
-2021-01-07,Basilicata,giallo,
-2021-01-08,Basilicata,giallo,
-2021-01-09,Basilicata,arancione,
-2021-01-10,Basilicata,giallo,
-2021-01-11,Basilicata,giallo,
-2021-01-12,Basilicata,giallo,
-2021-01-13,Basilicata,giallo,
-2021-01-14,Basilicata,giallo,
-2021-01-15,Basilicata,giallo,
-2021-01-16,Basilicata,giallo,
-2021-01-17,Basilicata,giallo,
-2021-01-18,Basilicata,giallo,
-2021-01-19,Basilicata,giallo,
-2021-01-20,Basilicata,giallo,
-2021-01-21,Basilicata,giallo,
-2021-01-22,Basilicata,giallo,
-2021-01-23,Basilicata,giallo,
-2021-01-24,Basilicata,giallo,
-2021-01-25,Basilicata,giallo,
-2021-01-26,Basilicata,giallo,
-2021-01-27,Basilicata,giallo,
-2021-01-28,Basilicata,giallo,
-2021-01-29,Basilicata,giallo,
-2021-01-30,Basilicata,giallo,
-2021-01-31,Basilicata,giallo,
-2021-02-01,Basilicata,giallo,
-2021-02-02,Basilicata,giallo,
-2021-02-03,Basilicata,giallo,
-2020-11-06,Calabria,giallo,
-2020-11-07,Calabria,giallo,
-2020-11-08,Calabria,giallo,
-2020-11-09,Calabria,giallo,
-2020-11-10,Calabria,giallo,
-2020-11-11,Calabria,giallo,
-2020-11-12,Calabria,giallo,
-2020-11-13,Calabria,giallo,
-2020-11-14,Calabria,giallo,
-2020-11-15,Calabria,giallo,
-2020-11-16,Calabria,giallo,
-2020-11-17,Calabria,giallo,
-2020-11-18,Calabria,giallo,
-2020-11-19,Calabria,giallo,
-2020-11-20,Calabria,rosso,
-2020-11-21,Calabria,rosso,
-2020-11-22,Calabria,rosso,
-2020-11-23,Calabria,rosso,
-2020-11-24,Calabria,rosso,
-2020-11-25,Calabria,rosso,
-2020-11-26,Calabria,rosso,
-2020-11-27,Calabria,rosso,
-2020-11-28,Calabria,rosso,
-2020-11-29,Calabria,arancione,
-2020-11-30,Calabria,arancione,
-2020-12-01,Calabria,arancione,
-2020-12-02,Calabria,arancione,
-2020-12-03,Calabria,arancione,
-2020-12-04,Calabria,arancione,
-2020-12-05,Calabria,arancione,
-2020-12-06,Calabria,arancione,
-2020-12-07,Calabria,arancione,
-2020-12-08,Calabria,arancione,
-2020-12-09,Calabria,arancione,
-2020-12-10,Calabria,arancione,
-2020-12-11,Calabria,arancione,
-2020-12-12,Calabria,arancione,
-2020-12-13,Calabria,giallo,
-2020-12-14,Calabria,giallo,
-2020-12-15,Calabria,giallo,
-2020-12-16,Calabria,giallo,
-2020-12-17,Calabria,giallo,
-2020-12-18,Calabria,giallo,
-2020-12-19,Calabria,giallo,
-2020-12-20,Calabria,giallo,
-2020-12-21,Calabria,giallo,
-2020-12-22,Calabria,giallo,
-2020-12-23,Calabria,giallo,
-2020-12-24,Calabria,rosso,
-2020-12-25,Calabria,rosso,
-2020-12-26,Calabria,rosso,
-2020-12-27,Calabria,rosso,
-2020-12-28,Calabria,arancione,
-2020-12-29,Calabria,arancione,
-2020-12-30,Calabria,arancione,
-2020-12-31,Calabria,rosso,
-2021-01-01,Calabria,rosso,
-2021-01-02,Calabria,rosso,
-2021-01-03,Calabria,rosso,
-2021-01-04,Calabria,arancione,
-2021-01-05,Calabria,rosso,
-2021-01-06,Calabria,rosso,
-2021-01-07,Calabria,giallo,
-2021-01-08,Calabria,giallo,
-2021-01-09,Calabria,arancione,
-2021-01-10,Calabria,arancione,
-2021-01-11,Calabria,arancione,
-2021-01-12,Calabria,arancione,
-2021-01-13,Calabria,arancione,
-2021-01-14,Calabria,arancione,
-2021-01-15,Calabria,arancione,
-2021-01-16,Calabria,arancione,
-2021-01-17,Calabria,arancione,
-2021-01-18,Calabria,arancione,
-2021-01-19,Calabria,arancione,
-2021-01-20,Calabria,arancione,
-2021-01-21,Calabria,arancione,
-2021-01-22,Calabria,arancione,
-2021-01-23,Calabria,arancione,
-2021-01-24,Calabria,arancione,
-2021-01-25,Calabria,arancione,
-2021-01-26,Calabria,arancione,
-2021-01-27,Calabria,arancione,
-2021-01-28,Calabria,arancione,
-2021-01-29,Calabria,arancione,
-2021-01-30,Calabria,arancione,
-2021-01-31,Calabria,arancione,
-2021-02-01,Calabria,giallo,
-2021-02-02,Calabria,giallo,
-2021-02-03,Calabria,giallo,
-2020-11-06,Campania,giallo,
-2020-11-07,Campania,giallo,
-2020-11-08,Campania,giallo,
-2020-11-09,Campania,giallo,
-2020-11-10,Campania,giallo,
-2020-11-11,Campania,giallo,
-2020-11-12,Campania,giallo,
-2020-11-13,Campania,giallo,
-2020-11-14,Campania,giallo,
-2020-11-15,Campania,rosso,
-2020-11-16,Campania,rosso,
-2020-11-17,Campania,rosso,
-2020-11-18,Campania,rosso,
-2020-11-19,Campania,rosso,
-2020-11-20,Campania,rosso,
-2020-11-21,Campania,rosso,
-2020-11-22,Campania,rosso,
-2020-11-23,Campania,rosso,
-2020-11-24,Campania,rosso,
-2020-11-25,Campania,rosso,
-2020-11-26,Campania,rosso,
-2020-11-27,Campania,rosso,
-2020-11-28,Campania,rosso,
-2020-11-29,Campania,rosso,
-2020-11-30,Campania,rosso,
-2020-12-01,Campania,rosso,
-2020-12-02,Campania,rosso,
-2020-12-03,Campania,rosso,
-2020-12-04,Campania,rosso,
-2020-12-05,Campania,rosso,
-2020-12-06,Campania,arancione,
-2020-12-07,Campania,arancione,
-2020-12-08,Campania,arancione,
-2020-12-09,Campania,arancione,
-2020-12-10,Campania,arancione,
-2020-12-11,Campania,arancione,
-2020-12-12,Campania,arancione,
-2020-12-13,Campania,arancione,
-2020-12-14,Campania,arancione,
-2020-12-15,Campania,arancione,
-2020-12-16,Campania,arancione,
-2020-12-17,Campania,arancione,
-2020-12-18,Campania,arancione,
-2020-12-19,Campania,arancione,
-2020-12-20,Campania,arancione,
-2020-12-21,Campania,arancione,
-2020-12-22,Campania,arancione,
-2020-12-23,Campania,arancione,
-2020-12-24,Campania,rosso,
-2020-12-25,Campania,rosso,
-2020-12-26,Campania,rosso,
-2020-12-27,Campania,rosso,
-2020-12-28,Campania,arancione,
-2020-12-29,Campania,arancione,
-2020-12-30,Campania,arancione,
-2020-12-31,Campania,rosso,
-2021-01-01,Campania,rosso,
-2021-01-02,Campania,rosso,
-2021-01-03,Campania,rosso,
-2021-01-04,Campania,arancione,
-2021-01-05,Campania,rosso,
-2021-01-06,Campania,rosso,
-2021-01-07,Campania,giallo,
-2021-01-08,Campania,giallo,
-2021-01-09,Campania,arancione,
-2021-01-10,Campania,giallo,
-2021-01-11,Campania,giallo,
-2021-01-12,Campania,giallo,
-2021-01-13,Campania,giallo,
-2021-01-14,Campania,giallo,
-2021-01-15,Campania,giallo,
-2021-01-16,Campania,giallo,
-2021-01-17,Campania,giallo,
-2021-01-18,Campania,giallo,
-2021-01-19,Campania,giallo,
-2021-01-20,Campania,giallo,
-2021-01-21,Campania,giallo,
-2021-01-22,Campania,giallo,
-2021-01-23,Campania,giallo,
-2021-01-24,Campania,giallo,
-2021-01-25,Campania,giallo,
-2021-01-26,Campania,giallo,
-2021-01-27,Campania,giallo,
-2021-01-28,Campania,giallo,
-2021-01-29,Campania,giallo,
-2021-01-30,Campania,giallo,
-2021-01-31,Campania,giallo,
-2021-02-01,Campania,giallo,
-2021-02-02,Campania,giallo,
-2021-02-03,Campania,giallo,
-2020-11-06,Emilia-Romagna,giallo,
-2020-11-07,Emilia-Romagna,giallo,
-2020-11-08,Emilia-Romagna,giallo,
-2020-11-09,Emilia-Romagna,giallo,
-2020-11-10,Emilia-Romagna,giallo,
-2020-11-11,Emilia-Romagna,giallo,
-2020-11-12,Emilia-Romagna,giallo,
-2020-11-13,Emilia-Romagna,giallo,
-2020-11-14,Emilia-Romagna,giallo,
-2020-11-15,Emilia-Romagna,arancione,
-2020-11-16,Emilia-Romagna,arancione,
-2020-11-17,Emilia-Romagna,arancione,
-2020-11-18,Emilia-Romagna,arancione,
-2020-11-19,Emilia-Romagna,arancione,
-2020-11-20,Emilia-Romagna,arancione,
-2020-11-21,Emilia-Romagna,arancione,
-2020-11-22,Emilia-Romagna,arancione,
-2020-11-23,Emilia-Romagna,arancione,
-2020-11-24,Emilia-Romagna,arancione,
-2020-11-25,Emilia-Romagna,arancione,
-2020-11-26,Emilia-Romagna,arancione,
-2020-11-27,Emilia-Romagna,arancione,
-2020-11-28,Emilia-Romagna,arancione,
-2020-11-29,Emilia-Romagna,arancione,
-2020-11-30,Emilia-Romagna,arancione,
-2020-12-01,Emilia-Romagna,arancione,
-2020-12-02,Emilia-Romagna,arancione,
-2020-12-03,Emilia-Romagna,arancione,
-2020-12-04,Emilia-Romagna,arancione,
-2020-12-05,Emilia-Romagna,arancione,
-2020-12-06,Emilia-Romagna,giallo,
-2020-12-07,Emilia-Romagna,giallo,
-2020-12-08,Emilia-Romagna,giallo,
-2020-12-09,Emilia-Romagna,giallo,
-2020-12-10,Emilia-Romagna,giallo,
-2020-12-11,Emilia-Romagna,giallo,
-2020-12-12,Emilia-Romagna,giallo,
-2020-12-13,Emilia-Romagna,giallo,
-2020-12-14,Emilia-Romagna,giallo,
-2020-12-15,Emilia-Romagna,giallo,
-2020-12-16,Emilia-Romagna,giallo,
-2020-12-17,Emilia-Romagna,giallo,
-2020-12-18,Emilia-Romagna,giallo,
-2020-12-19,Emilia-Romagna,giallo,
-2020-12-20,Emilia-Romagna,giallo,
-2020-12-21,Emilia-Romagna,giallo,
-2020-12-22,Emilia-Romagna,giallo,
-2020-12-23,Emilia-Romagna,giallo,
-2020-12-24,Emilia-Romagna,rosso,
-2020-12-25,Emilia-Romagna,rosso,
-2020-12-26,Emilia-Romagna,rosso,
-2020-12-27,Emilia-Romagna,rosso,
-2020-12-28,Emilia-Romagna,arancione,
-2020-12-29,Emilia-Romagna,arancione,
-2020-12-30,Emilia-Romagna,arancione,
-2020-12-31,Emilia-Romagna,rosso,
-2021-01-01,Emilia-Romagna,rosso,
-2021-01-02,Emilia-Romagna,rosso,
-2021-01-03,Emilia-Romagna,rosso,
-2021-01-04,Emilia-Romagna,arancione,
-2021-01-05,Emilia-Romagna,rosso,
-2021-01-06,Emilia-Romagna,rosso,
-2021-01-07,Emilia-Romagna,giallo,
-2021-01-08,Emilia-Romagna,giallo,
-2021-01-09,Emilia-Romagna,arancione,
-2021-01-10,Emilia-Romagna,arancione,
-2021-01-11,Emilia-Romagna,arancione,
-2021-01-12,Emilia-Romagna,arancione,
-2021-01-13,Emilia-Romagna,arancione,
-2021-01-14,Emilia-Romagna,arancione,
-2021-01-15,Emilia-Romagna,arancione,
-2021-01-16,Emilia-Romagna,arancione,
-2021-01-17,Emilia-Romagna,arancione,
-2021-01-18,Emilia-Romagna,arancione,
-2021-01-19,Emilia-Romagna,arancione,
-2021-01-20,Emilia-Romagna,arancione,
-2021-01-21,Emilia-Romagna,arancione,
-2021-01-22,Emilia-Romagna,arancione,
-2021-01-23,Emilia-Romagna,arancione,
-2021-01-24,Emilia-Romagna,arancione,
-2021-01-25,Emilia-Romagna,arancione,
-2021-01-26,Emilia-Romagna,arancione,
-2021-01-27,Emilia-Romagna,arancione,
-2021-01-28,Emilia-Romagna,arancione,
-2021-01-29,Emilia-Romagna,arancione,
-2021-01-30,Emilia-Romagna,arancione,
-2021-01-31,Emilia-Romagna,arancione,
-2021-02-01,Emilia-Romagna,giallo,
-2021-02-02,Emilia-Romagna,giallo,
-2021-02-03,Emilia-Romagna,giallo,
-2020-11-06,Friuli Venezia Giulia,giallo,
-2020-11-07,Friuli Venezia Giulia,giallo,
-2020-11-08,Friuli Venezia Giulia,giallo,
-2020-11-09,Friuli Venezia Giulia,giallo,
-2020-11-10,Friuli Venezia Giulia,giallo,
-2020-11-11,Friuli Venezia Giulia,giallo,
-2020-11-12,Friuli Venezia Giulia,giallo,
-2020-11-13,Friuli Venezia Giulia,giallo,
-2020-11-14,Friuli Venezia Giulia,giallo,
-2020-11-15,Friuli Venezia Giulia,arancione,
-2020-11-16,Friuli Venezia Giulia,arancione,
-2020-11-17,Friuli Venezia Giulia,arancione,
-2020-11-18,Friuli Venezia Giulia,arancione,
-2020-11-19,Friuli Venezia Giulia,arancione,
-2020-11-20,Friuli Venezia Giulia,arancione,
-2020-11-21,Friuli Venezia Giulia,arancione,
-2020-11-22,Friuli Venezia Giulia,arancione,
-2020-11-23,Friuli Venezia Giulia,arancione,
-2020-11-24,Friuli Venezia Giulia,arancione,
-2020-11-25,Friuli Venezia Giulia,arancione,
-2020-11-26,Friuli Venezia Giulia,arancione,
-2020-11-27,Friuli Venezia Giulia,arancione,
-2020-11-28,Friuli Venezia Giulia,arancione,
-2020-11-29,Friuli Venezia Giulia,arancione,
-2020-11-30,Friuli Venezia Giulia,arancione,
-2020-12-01,Friuli Venezia Giulia,arancione,
-2020-12-02,Friuli Venezia Giulia,arancione,
-2020-12-03,Friuli Venezia Giulia,arancione,
-2020-12-04,Friuli Venezia Giulia,arancione,
-2020-12-05,Friuli Venezia Giulia,arancione,
-2020-12-06,Friuli Venezia Giulia,giallo,
-2020-12-07,Friuli Venezia Giulia,giallo,
-2020-12-08,Friuli Venezia Giulia,giallo,
-2020-12-09,Friuli Venezia Giulia,giallo,
-2020-12-10,Friuli Venezia Giulia,giallo,
-2020-12-11,Friuli Venezia Giulia,giallo,
-2020-12-12,Friuli Venezia Giulia,giallo,
-2020-12-13,Friuli Venezia Giulia,giallo,
-2020-12-14,Friuli Venezia Giulia,giallo,
-2020-12-15,Friuli Venezia Giulia,giallo,
-2020-12-16,Friuli Venezia Giulia,giallo,
-2020-12-17,Friuli Venezia Giulia,giallo,
-2020-12-18,Friuli Venezia Giulia,giallo,
-2020-12-19,Friuli Venezia Giulia,giallo,
-2020-12-20,Friuli Venezia Giulia,giallo,
-2020-12-21,Friuli Venezia Giulia,giallo,
-2020-12-22,Friuli Venezia Giulia,giallo,
-2020-12-23,Friuli Venezia Giulia,giallo,
-2020-12-24,Friuli Venezia Giulia,rosso,
-2020-12-25,Friuli Venezia Giulia,rosso,
-2020-12-26,Friuli Venezia Giulia,rosso,
-2020-12-27,Friuli Venezia Giulia,rosso,
-2020-12-28,Friuli Venezia Giulia,arancione,
-2020-12-29,Friuli Venezia Giulia,arancione,
-2020-12-30,Friuli Venezia Giulia,arancione,
-2020-12-31,Friuli Venezia Giulia,rosso,
-2021-01-01,Friuli Venezia Giulia,rosso,
-2021-01-02,Friuli Venezia Giulia,rosso,
-2021-01-03,Friuli Venezia Giulia,rosso,
-2021-01-04,Friuli Venezia Giulia,arancione,
-2021-01-05,Friuli Venezia Giulia,rosso,
-2021-01-06,Friuli Venezia Giulia,rosso,
-2021-01-07,Friuli Venezia Giulia,giallo,
-2021-01-08,Friuli Venezia Giulia,giallo,
-2021-01-09,Friuli Venezia Giulia,arancione,
-2021-01-10,Friuli Venezia Giulia,giallo,
-2021-01-11,Friuli Venezia Giulia,giallo,
-2021-01-12,Friuli Venezia Giulia,giallo,
-2021-01-13,Friuli Venezia Giulia,giallo,
-2021-01-14,Friuli Venezia Giulia,giallo,
-2021-01-15,Friuli Venezia Giulia,giallo,
-2021-01-16,Friuli Venezia Giulia,giallo,
-2021-01-17,Friuli Venezia Giulia,arancione,
-2021-01-18,Friuli Venezia Giulia,arancione,
-2021-01-19,Friuli Venezia Giulia,arancione,
-2021-01-20,Friuli Venezia Giulia,arancione,
-2021-01-21,Friuli Venezia Giulia,arancione,
-2021-01-22,Friuli Venezia Giulia,arancione,
-2021-01-23,Friuli Venezia Giulia,arancione,
-2021-01-24,Friuli Venezia Giulia,arancione,
-2021-01-25,Friuli Venezia Giulia,arancione,
-2021-01-26,Friuli Venezia Giulia,arancione,
-2021-01-27,Friuli Venezia Giulia,arancione,
-2021-01-28,Friuli Venezia Giulia,arancione,
-2021-01-29,Friuli Venezia Giulia,arancione,
-2021-01-30,Friuli Venezia Giulia,arancione,
-2021-01-31,Friuli Venezia Giulia,arancione,
-2021-02-01,Friuli Venezia Giulia,giallo,
-2021-02-02,Friuli Venezia Giulia,giallo,
-2021-02-03,Friuli Venezia Giulia,giallo,
-2020-11-06,Lazio,giallo,
-2020-11-07,Lazio,giallo,
-2020-11-08,Lazio,giallo,
-2020-11-09,Lazio,giallo,
-2020-11-10,Lazio,giallo,
-2020-11-11,Lazio,giallo,
-2020-11-12,Lazio,giallo,
-2020-11-13,Lazio,giallo,
-2020-11-14,Lazio,giallo,
-2020-11-15,Lazio,giallo,
-2020-11-16,Lazio,giallo,
-2020-11-17,Lazio,giallo,
-2020-11-18,Lazio,giallo,
-2020-11-19,Lazio,giallo,
-2020-11-20,Lazio,giallo,
-2020-11-21,Lazio,giallo,
-2020-11-22,Lazio,giallo,
-2020-11-23,Lazio,giallo,
-2020-11-24,Lazio,giallo,
-2020-11-25,Lazio,giallo,
-2020-11-26,Lazio,giallo,
-2020-11-27,Lazio,giallo,
-2020-11-28,Lazio,giallo,
-2020-11-29,Lazio,giallo,
-2020-11-30,Lazio,giallo,
-2020-12-01,Lazio,giallo,
-2020-12-02,Lazio,giallo,
-2020-12-03,Lazio,giallo,
-2020-12-04,Lazio,giallo,
-2020-12-05,Lazio,giallo,
-2020-12-06,Lazio,giallo,
-2020-12-07,Lazio,giallo,
-2020-12-08,Lazio,giallo,
-2020-12-09,Lazio,giallo,
-2020-12-10,Lazio,giallo,
-2020-12-11,Lazio,giallo,
-2020-12-12,Lazio,giallo,
-2020-12-13,Lazio,giallo,
-2020-12-14,Lazio,giallo,
-2020-12-15,Lazio,giallo,
-2020-12-16,Lazio,giallo,
-2020-12-17,Lazio,giallo,
-2020-12-18,Lazio,giallo,
-2020-12-19,Lazio,giallo,
-2020-12-20,Lazio,giallo,
-2020-12-21,Lazio,giallo,
-2020-12-22,Lazio,giallo,
-2020-12-23,Lazio,giallo,
-2020-12-24,Lazio,rosso,
-2020-12-25,Lazio,rosso,
-2020-12-26,Lazio,rosso,
-2020-12-27,Lazio,rosso,
-2020-12-28,Lazio,arancione,
-2020-12-29,Lazio,arancione,
-2020-12-30,Lazio,arancione,
-2020-12-31,Lazio,rosso,
-2021-01-01,Lazio,rosso,
-2021-01-02,Lazio,rosso,
-2021-01-03,Lazio,rosso,
-2021-01-04,Lazio,arancione,
-2021-01-05,Lazio,rosso,
-2021-01-06,Lazio,rosso,
-2021-01-07,Lazio,giallo,
-2021-01-08,Lazio,giallo,
-2021-01-09,Lazio,arancione,
-2021-01-10,Lazio,giallo,
-2021-01-11,Lazio,giallo,
-2021-01-12,Lazio,giallo,
-2021-01-13,Lazio,giallo,
-2021-01-14,Lazio,giallo,
-2021-01-15,Lazio,giallo,
-2021-01-16,Lazio,giallo,
-2021-01-17,Lazio,arancione,
-2021-01-18,Lazio,arancione,
-2021-01-19,Lazio,arancione,
-2021-01-20,Lazio,arancione,
-2021-01-21,Lazio,arancione,
-2021-01-22,Lazio,arancione,
-2021-01-23,Lazio,arancione,
-2021-01-24,Lazio,arancione,
-2021-01-25,Lazio,arancione,
-2021-01-26,Lazio,arancione,
-2021-01-27,Lazio,arancione,
-2021-01-28,Lazio,arancione,
-2021-01-29,Lazio,arancione,
-2021-01-30,Lazio,arancione,
-2021-01-31,Lazio,arancione,
-2021-02-01,Lazio,giallo,
-2021-02-02,Lazio,giallo,
-2021-02-03,Lazio,giallo,
-2020-11-06,Liguria,giallo,
-2020-11-07,Liguria,giallo,
-2020-11-08,Liguria,giallo,
-2020-11-09,Liguria,giallo,
-2020-11-10,Liguria,arancione,
-2020-11-11,Liguria,arancione,
-2020-11-12,Liguria,arancione,
-2020-11-13,Liguria,arancione,
-2020-11-14,Liguria,arancione,
-2020-11-15,Liguria,arancione,
-2020-11-16,Liguria,arancione,
-2020-11-17,Liguria,arancione,
-2020-11-18,Liguria,arancione,
-2020-11-19,Liguria,arancione,
-2020-11-20,Liguria,arancione,
-2020-11-21,Liguria,arancione,
-2020-11-22,Liguria,arancione,
-2020-11-23,Liguria,arancione,
-2020-11-24,Liguria,arancione,
-2020-11-25,Liguria,arancione,
-2020-11-26,Liguria,arancione,
-2020-11-27,Liguria,arancione,
-2020-11-28,Liguria,arancione,
-2020-11-29,Liguria,giallo,
-2020-11-30,Liguria,giallo,
-2020-12-01,Liguria,giallo,
-2020-12-02,Liguria,giallo,
-2020-12-03,Liguria,giallo,
-2020-12-04,Liguria,giallo,
-2020-12-05,Liguria,giallo,
-2020-12-06,Liguria,giallo,
-2020-12-07,Liguria,giallo,
-2020-12-08,Liguria,giallo,
-2020-12-09,Liguria,giallo,
-2020-12-10,Liguria,giallo,
-2020-12-11,Liguria,giallo,
-2020-12-12,Liguria,giallo,
-2020-12-13,Liguria,giallo,
-2020-12-14,Liguria,giallo,
-2020-12-15,Liguria,giallo,
-2020-12-16,Liguria,giallo,
-2020-12-17,Liguria,giallo,
-2020-12-18,Liguria,giallo,
-2020-12-19,Liguria,giallo,
-2020-12-20,Liguria,giallo,
-2020-12-21,Liguria,giallo,
-2020-12-22,Liguria,giallo,
-2020-12-23,Liguria,giallo,
-2020-12-24,Liguria,rosso,
-2020-12-25,Liguria,rosso,
-2020-12-26,Liguria,rosso,
-2020-12-27,Liguria,rosso,
-2020-12-28,Liguria,arancione,
-2020-12-29,Liguria,arancione,
-2020-12-30,Liguria,arancione,
-2020-12-31,Liguria,rosso,
-2021-01-01,Liguria,rosso,
-2021-01-02,Liguria,rosso,
-2021-01-03,Liguria,rosso,
-2021-01-04,Liguria,arancione,
-2021-01-05,Liguria,rosso,
-2021-01-06,Liguria,rosso,
-2021-01-07,Liguria,giallo,
-2021-01-08,Liguria,giallo,
-2021-01-09,Liguria,arancione,
-2021-01-10,Liguria,giallo,
-2021-01-11,Liguria,giallo,
-2021-01-12,Liguria,giallo,
-2021-01-13,Liguria,giallo,
-2021-01-14,Liguria,giallo,
-2021-01-15,Liguria,giallo,
-2021-01-16,Liguria,giallo,
-2021-01-17,Liguria,arancione,
-2021-01-18,Liguria,arancione,
-2021-01-19,Liguria,arancione,
-2021-01-20,Liguria,arancione,
-2021-01-21,Liguria,arancione,
-2021-01-22,Liguria,arancione,
-2021-01-23,Liguria,arancione,
-2021-01-24,Liguria,arancione,
-2021-01-25,Liguria,arancione,
-2021-01-26,Liguria,arancione,
-2021-01-27,Liguria,arancione,
-2021-01-28,Liguria,arancione,
-2021-01-29,Liguria,arancione,
-2021-01-30,Liguria,arancione,
-2021-01-31,Liguria,arancione,
-2021-02-01,Liguria,giallo,
-2021-02-02,Liguria,giallo,
-2021-02-03,Liguria,giallo,
-2020-11-06,Lombardia,giallo,
-2020-11-07,Lombardia,giallo,
-2020-11-08,Lombardia,giallo,
-2020-11-09,Lombardia,giallo,
-2020-11-10,Lombardia,giallo,
-2020-11-11,Lombardia,giallo,
-2020-11-12,Lombardia,giallo,
-2020-11-13,Lombardia,giallo,
-2020-11-14,Lombardia,giallo,
-2020-11-15,Lombardia,giallo,
-2020-11-16,Lombardia,giallo,
-2020-11-17,Lombardia,giallo,
-2020-11-18,Lombardia,giallo,
-2020-11-19,Lombardia,giallo,
-2020-11-20,Lombardia,rosso,
-2020-11-21,Lombardia,rosso,
-2020-11-22,Lombardia,rosso,
-2020-11-23,Lombardia,rosso,
-2020-11-24,Lombardia,rosso,
-2020-11-25,Lombardia,rosso,
-2020-11-26,Lombardia,rosso,
-2020-11-27,Lombardia,rosso,
-2020-11-28,Lombardia,rosso,
-2020-11-29,Lombardia,arancione,
-2020-11-30,Lombardia,arancione,
-2020-12-01,Lombardia,arancione,
-2020-12-02,Lombardia,arancione,
-2020-12-03,Lombardia,arancione,
-2020-12-04,Lombardia,arancione,
-2020-12-05,Lombardia,arancione,
-2020-12-06,Lombardia,arancione,
-2020-12-07,Lombardia,arancione,
-2020-12-08,Lombardia,arancione,
-2020-12-09,Lombardia,arancione,
-2020-12-10,Lombardia,arancione,
-2020-12-11,Lombardia,arancione,
-2020-12-12,Lombardia,arancione,
-2020-12-13,Lombardia,giallo,
-2020-12-14,Lombardia,giallo,
-2020-12-15,Lombardia,giallo,
-2020-12-16,Lombardia,giallo,
-2020-12-17,Lombardia,giallo,
-2020-12-18,Lombardia,giallo,
-2020-12-19,Lombardia,giallo,
-2020-12-20,Lombardia,giallo,
-2020-12-21,Lombardia,giallo,
-2020-12-22,Lombardia,giallo,
-2020-12-23,Lombardia,giallo,
-2020-12-24,Lombardia,rosso,
-2020-12-25,Lombardia,rosso,
-2020-12-26,Lombardia,rosso,
-2020-12-27,Lombardia,rosso,
-2020-12-28,Lombardia,arancione,
-2020-12-29,Lombardia,arancione,
-2020-12-30,Lombardia,arancione,
-2020-12-31,Lombardia,rosso,
-2021-01-01,Lombardia,rosso,
-2021-01-02,Lombardia,rosso,
-2021-01-03,Lombardia,rosso,
-2021-01-04,Lombardia,arancione,
-2021-01-05,Lombardia,rosso,
-2021-01-06,Lombardia,rosso,
-2021-01-07,Lombardia,giallo,
-2021-01-08,Lombardia,giallo,
-2021-01-09,Lombardia,arancione,
-2021-01-10,Lombardia,arancione,
-2021-01-11,Lombardia,arancione,
-2021-01-12,Lombardia,arancione,
-2021-01-13,Lombardia,arancione,
-2021-01-14,Lombardia,arancione,
-2021-01-15,Lombardia,arancione,
-2021-01-16,Lombardia,arancione,
-2021-01-17,Lombardia,rosso,
-2021-01-18,Lombardia,rosso,
-2021-01-19,Lombardia,rosso,
-2021-01-20,Lombardia,rosso,
-2021-01-21,Lombardia,rosso,
-2021-01-22,Lombardia,rosso,
-2021-01-23,Lombardia,rosso,
-2021-01-24,Lombardia,arancione,
-2021-01-25,Lombardia,arancione,
-2021-01-26,Lombardia,arancione,
-2021-01-27,Lombardia,arancione,
-2021-01-28,Lombardia,arancione,
-2021-01-29,Lombardia,arancione,
-2021-01-30,Lombardia,arancione,
-2021-01-31,Lombardia,arancione,
-2021-02-01,Lombardia,giallo,
-2021-02-02,Lombardia,giallo,
-2021-02-03,Lombardia,giallo,
-2020-11-06,Marche,giallo,
-2020-11-07,Marche,giallo,
-2020-11-08,Marche,giallo,
-2020-11-09,Marche,giallo,
-2020-11-10,Marche,giallo,
-2020-11-11,Marche,giallo,
-2020-11-12,Marche,giallo,
-2020-11-13,Marche,giallo,
-2020-11-14,Marche,giallo,
-2020-11-15,Marche,arancione,
-2020-11-16,Marche,arancione,
-2020-11-17,Marche,arancione,
-2020-11-18,Marche,arancione,
-2020-11-19,Marche,arancione,
-2020-11-20,Marche,arancione,
-2020-11-21,Marche,arancione,
-2020-11-22,Marche,arancione,
-2020-11-23,Marche,arancione,
-2020-11-24,Marche,arancione,
-2020-11-25,Marche,arancione,
-2020-11-26,Marche,arancione,
-2020-11-27,Marche,arancione,
-2020-11-28,Marche,arancione,
-2020-11-29,Marche,arancione,
-2020-11-30,Marche,arancione,
-2020-12-01,Marche,arancione,
-2020-12-02,Marche,arancione,
-2020-12-03,Marche,arancione,
-2020-12-04,Marche,arancione,
-2020-12-05,Marche,arancione,
-2020-12-06,Marche,giallo,
-2020-12-07,Marche,giallo,
-2020-12-08,Marche,giallo,
-2020-12-09,Marche,giallo,
-2020-12-10,Marche,giallo,
-2020-12-11,Marche,giallo,
-2020-12-12,Marche,giallo,
-2020-12-13,Marche,giallo,
-2020-12-14,Marche,giallo,
-2020-12-15,Marche,giallo,
-2020-12-16,Marche,giallo,
-2020-12-17,Marche,giallo,
-2020-12-18,Marche,giallo,
-2020-12-19,Marche,giallo,
-2020-12-20,Marche,giallo,
-2020-12-21,Marche,giallo,
-2020-12-22,Marche,giallo,
-2020-12-23,Marche,giallo,
-2020-12-24,Marche,rosso,
-2020-12-25,Marche,rosso,
-2020-12-26,Marche,rosso,
-2020-12-27,Marche,rosso,
-2020-12-28,Marche,arancione,
-2020-12-29,Marche,arancione,
-2020-12-30,Marche,arancione,
-2020-12-31,Marche,rosso,
-2021-01-01,Marche,rosso,
-2021-01-02,Marche,rosso,
-2021-01-03,Marche,rosso,
-2021-01-04,Marche,arancione,
-2021-01-05,Marche,rosso,
-2021-01-06,Marche,rosso,
-2021-01-07,Marche,giallo,
-2021-01-08,Marche,giallo,
-2021-01-09,Marche,arancione,
-2021-01-10,Marche,giallo,
-2021-01-11,Marche,giallo,
-2021-01-12,Marche,giallo,
-2021-01-13,Marche,giallo,
-2021-01-14,Marche,giallo,
-2021-01-15,Marche,giallo,
-2021-01-16,Marche,giallo,
-2021-01-17,Marche,arancione,
-2021-01-18,Marche,arancione,
-2021-01-19,Marche,arancione,
-2021-01-20,Marche,arancione,
-2021-01-21,Marche,arancione,
-2021-01-22,Marche,arancione,
-2021-01-23,Marche,arancione,
-2021-01-24,Marche,arancione,
-2021-01-25,Marche,arancione,
-2021-01-26,Marche,arancione,
-2021-01-27,Marche,arancione,
-2021-01-28,Marche,arancione,
-2021-01-29,Marche,arancione,
-2021-01-30,Marche,arancione,
-2021-01-31,Marche,arancione,
-2021-02-01,Marche,giallo,
-2021-02-02,Marche,giallo,
-2021-02-03,Marche,giallo,
-2020-11-06,Molise,giallo,
-2020-11-07,Molise,giallo,
-2020-11-08,Molise,giallo,
-2020-11-09,Molise,giallo,
-2020-11-10,Molise,giallo,
-2020-11-11,Molise,giallo,
-2020-11-12,Molise,giallo,
-2020-11-13,Molise,giallo,
-2020-11-14,Molise,giallo,
-2020-11-15,Molise,giallo,
-2020-11-16,Molise,giallo,
-2020-11-17,Molise,giallo,
-2020-11-18,Molise,giallo,
-2020-11-19,Molise,giallo,
-2020-11-20,Molise,giallo,
-2020-11-21,Molise,giallo,
-2020-11-22,Molise,giallo,
-2020-11-23,Molise,giallo,
-2020-11-24,Molise,giallo,
-2020-11-25,Molise,giallo,
-2020-11-26,Molise,giallo,
-2020-11-27,Molise,giallo,
-2020-11-28,Molise,giallo,
-2020-11-29,Molise,giallo,
-2020-11-30,Molise,giallo,
-2020-12-01,Molise,giallo,
-2020-12-02,Molise,giallo,
-2020-12-03,Molise,giallo,
-2020-12-04,Molise,giallo,
-2020-12-05,Molise,giallo,
-2020-12-06,Molise,giallo,
-2020-12-07,Molise,giallo,
-2020-12-08,Molise,giallo,
-2020-12-09,Molise,giallo,
-2020-12-10,Molise,giallo,
-2020-12-11,Molise,giallo,
-2020-12-12,Molise,giallo,
-2020-12-13,Molise,giallo,
-2020-12-14,Molise,giallo,
-2020-12-15,Molise,giallo,
-2020-12-16,Molise,giallo,
-2020-12-17,Molise,giallo,
-2020-12-18,Molise,giallo,
-2020-12-19,Molise,giallo,
-2020-12-20,Molise,giallo,
-2020-12-21,Molise,giallo,
-2020-12-22,Molise,giallo,
-2020-12-23,Molise,giallo,
-2020-12-24,Molise,rosso,
-2020-12-25,Molise,rosso,
-2020-12-26,Molise,rosso,
-2020-12-27,Molise,rosso,
-2020-12-28,Molise,arancione,
-2020-12-29,Molise,arancione,
-2020-12-30,Molise,arancione,
-2020-12-31,Molise,rosso,
-2021-01-01,Molise,rosso,
-2021-01-02,Molise,rosso,
-2021-01-03,Molise,rosso,
-2021-01-04,Molise,arancione,
-2021-01-05,Molise,rosso,
-2021-01-06,Molise,rosso,
-2021-01-07,Molise,giallo,
-2021-01-08,Molise,giallo,
-2021-01-09,Molise,arancione,
-2021-01-10,Molise,giallo,
-2021-01-11,Molise,giallo,
-2021-01-12,Molise,giallo,
-2021-01-13,Molise,giallo,
-2021-01-14,Molise,giallo,
-2021-01-15,Molise,giallo,
-2021-01-16,Molise,giallo,
-2021-01-17,Molise,giallo,
-2021-01-18,Molise,giallo,
-2021-01-19,Molise,giallo,
-2021-01-20,Molise,giallo,
-2021-01-21,Molise,giallo,
-2021-01-22,Molise,giallo,
-2021-01-23,Molise,giallo,
-2021-01-24,Molise,giallo,
-2021-01-25,Molise,giallo,
-2021-01-26,Molise,giallo,
-2021-01-27,Molise,giallo,
-2021-01-28,Molise,giallo,
-2021-01-29,Molise,giallo,
-2021-01-30,Molise,giallo,
-2021-01-31,Molise,giallo,
-2021-02-01,Molise,giallo,
-2021-02-02,Molise,giallo,
-2021-02-03,Molise,giallo,
-2020-11-06,Piemonte,giallo,
-2020-11-07,Piemonte,giallo,
-2020-11-08,Piemonte,giallo,
-2020-11-09,Piemonte,giallo,
-2020-11-10,Piemonte,giallo,
-2020-11-11,Piemonte,giallo,
-2020-11-12,Piemonte,giallo,
-2020-11-13,Piemonte,giallo,
-2020-11-14,Piemonte,giallo,
-2020-11-15,Piemonte,giallo,
-2020-11-16,Piemonte,giallo,
-2020-11-17,Piemonte,giallo,
-2020-11-18,Piemonte,giallo,
-2020-11-19,Piemonte,giallo,
-2020-11-20,Piemonte,rosso,
-2020-11-21,Piemonte,rosso,
-2020-11-22,Piemonte,rosso,
-2020-11-23,Piemonte,rosso,
-2020-11-24,Piemonte,rosso,
-2020-11-25,Piemonte,rosso,
-2020-11-26,Piemonte,rosso,
-2020-11-27,Piemonte,rosso,
-2020-11-28,Piemonte,rosso,
-2020-11-29,Piemonte,arancione,
-2020-11-30,Piemonte,arancione,
-2020-12-01,Piemonte,arancione,
-2020-12-02,Piemonte,arancione,
-2020-12-03,Piemonte,arancione,
-2020-12-04,Piemonte,arancione,
-2020-12-05,Piemonte,arancione,
-2020-12-06,Piemonte,arancione,
-2020-12-07,Piemonte,arancione,
-2020-12-08,Piemonte,arancione,
-2020-12-09,Piemonte,arancione,
-2020-12-10,Piemonte,arancione,
-2020-12-11,Piemonte,arancione,
-2020-12-12,Piemonte,arancione,
-2020-12-13,Piemonte,giallo,
-2020-12-14,Piemonte,giallo,
-2020-12-15,Piemonte,giallo,
-2020-12-16,Piemonte,giallo,
-2020-12-17,Piemonte,giallo,
-2020-12-18,Piemonte,giallo,
-2020-12-19,Piemonte,giallo,
-2020-12-20,Piemonte,giallo,
-2020-12-21,Piemonte,giallo,
-2020-12-22,Piemonte,giallo,
-2020-12-23,Piemonte,giallo,
-2020-12-24,Piemonte,rosso,
-2020-12-25,Piemonte,rosso,
-2020-12-26,Piemonte,rosso,
-2020-12-27,Piemonte,rosso,
-2020-12-28,Piemonte,arancione,
-2020-12-29,Piemonte,arancione,
-2020-12-30,Piemonte,arancione,
-2020-12-31,Piemonte,rosso,
-2021-01-01,Piemonte,rosso,
-2021-01-02,Piemonte,rosso,
-2021-01-03,Piemonte,rosso,
-2021-01-04,Piemonte,arancione,
-2021-01-05,Piemonte,rosso,
-2021-01-06,Piemonte,rosso,
-2021-01-07,Piemonte,giallo,
-2021-01-08,Piemonte,giallo,
-2021-01-09,Piemonte,arancione,
-2021-01-10,Piemonte,giallo,
-2021-01-11,Piemonte,giallo,
-2021-01-12,Piemonte,giallo,
-2021-01-13,Piemonte,giallo,
-2021-01-14,Piemonte,giallo,
-2021-01-15,Piemonte,giallo,
-2021-01-16,Piemonte,giallo,
-2021-01-17,Piemonte,arancione,
-2021-01-18,Piemonte,arancione,
-2021-01-19,Piemonte,arancione,
-2021-01-20,Piemonte,arancione,
-2021-01-21,Piemonte,arancione,
-2021-01-22,Piemonte,arancione,
-2021-01-23,Piemonte,arancione,
-2021-01-24,Piemonte,arancione,
-2021-01-25,Piemonte,arancione,
-2021-01-26,Piemonte,arancione,
-2021-01-27,Piemonte,arancione,
-2021-01-28,Piemonte,arancione,
-2021-01-29,Piemonte,arancione,
-2021-01-30,Piemonte,arancione,
-2021-01-31,Piemonte,arancione,
-2021-02-01,Piemonte,giallo,
-2021-02-02,Piemonte,giallo,
-2021-02-03,Piemonte,giallo,
-2020-11-06,Provincia autonoma Bolzano,giallo,
-2020-11-07,Provincia autonoma Bolzano,giallo,
-2020-11-08,Provincia autonoma Bolzano,giallo,
-2020-11-09,Provincia autonoma Bolzano,giallo,
-2020-11-10,Provincia autonoma Bolzano,rosso,
-2020-11-11,Provincia autonoma Bolzano,rosso,
-2020-11-12,Provincia autonoma Bolzano,rosso,
-2020-11-13,Provincia autonoma Bolzano,rosso,
-2020-11-14,Provincia autonoma Bolzano,rosso,
-2020-11-15,Provincia autonoma Bolzano,rosso,
-2020-11-16,Provincia autonoma Bolzano,rosso,
-2020-11-17,Provincia autonoma Bolzano,rosso,
-2020-11-18,Provincia autonoma Bolzano,rosso,
-2020-11-19,Provincia autonoma Bolzano,rosso,
-2020-11-20,Provincia autonoma Bolzano,rosso,
-2020-11-21,Provincia autonoma Bolzano,rosso,
-2020-11-22,Provincia autonoma Bolzano,rosso,
-2020-11-23,Provincia autonoma Bolzano,rosso,
-2020-11-24,Provincia autonoma Bolzano,rosso,
-2020-11-25,Provincia autonoma Bolzano,rosso,
-2020-11-26,Provincia autonoma Bolzano,rosso,
-2020-11-27,Provincia autonoma Bolzano,rosso,
-2020-11-28,Provincia autonoma Bolzano,rosso,
-2020-11-29,Provincia autonoma Bolzano,rosso,
-2020-11-30,Provincia autonoma Bolzano,rosso,
-2020-12-01,Provincia autonoma Bolzano,rosso,
-2020-12-02,Provincia autonoma Bolzano,rosso,
-2020-12-03,Provincia autonoma Bolzano,rosso,
-2020-12-04,Provincia autonoma Bolzano,rosso,
-2020-12-05,Provincia autonoma Bolzano,rosso,
-2020-12-06,Provincia autonoma Bolzano,arancione,
-2020-12-07,Provincia autonoma Bolzano,arancione,
-2020-12-08,Provincia autonoma Bolzano,arancione,
-2020-12-09,Provincia autonoma Bolzano,arancione,
-2020-12-10,Provincia autonoma Bolzano,arancione,
-2020-12-11,Provincia autonoma Bolzano,arancione,
-2020-12-12,Provincia autonoma Bolzano,arancione,
-2020-12-13,Provincia autonoma Bolzano,arancione,
-2020-12-14,Provincia autonoma Bolzano,arancione,
-2020-12-15,Provincia autonoma Bolzano,arancione,
-2020-12-16,Provincia autonoma Bolzano,arancione,
-2020-12-17,Provincia autonoma Bolzano,arancione,
-2020-12-18,Provincia autonoma Bolzano,arancione,
-2020-12-19,Provincia autonoma Bolzano,arancione,
-2020-12-20,Provincia autonoma Bolzano,arancione,
-2020-12-21,Provincia autonoma Bolzano,arancione,
-2020-12-22,Provincia autonoma Bolzano,arancione,
-2020-12-23,Provincia autonoma Bolzano,arancione,
-2020-12-24,Provincia autonoma Bolzano,rosso,
-2020-12-25,Provincia autonoma Bolzano,rosso,
-2020-12-26,Provincia autonoma Bolzano,rosso,
-2020-12-27,Provincia autonoma Bolzano,rosso,
-2020-12-28,Provincia autonoma Bolzano,arancione,
-2020-12-29,Provincia autonoma Bolzano,arancione,
-2020-12-30,Provincia autonoma Bolzano,arancione,
-2020-12-31,Provincia autonoma Bolzano,rosso,
-2021-01-01,Provincia autonoma Bolzano,rosso,
-2021-01-02,Provincia autonoma Bolzano,rosso,
-2021-01-03,Provincia autonoma Bolzano,rosso,
-2021-01-04,Provincia autonoma Bolzano,arancione,
-2021-01-05,Provincia autonoma Bolzano,rosso,
-2021-01-06,Provincia autonoma Bolzano,rosso,
-2021-01-07,Provincia autonoma Bolzano,giallo,
-2021-01-08,Provincia autonoma Bolzano,giallo,
-2021-01-09,Provincia autonoma Bolzano,arancione,
-2021-01-10,Provincia autonoma Bolzano,giallo,
-2021-01-11,Provincia autonoma Bolzano,giallo,
-2021-01-12,Provincia autonoma Bolzano,giallo,
-2021-01-13,Provincia autonoma Bolzano,giallo,
-2021-01-14,Provincia autonoma Bolzano,giallo,
-2021-01-15,Provincia autonoma Bolzano,giallo,
-2021-01-16,Provincia autonoma Bolzano,giallo,
-2021-01-17,Provincia autonoma Bolzano,rosso,
-2021-01-18,Provincia autonoma Bolzano,rosso,
-2021-01-19,Provincia autonoma Bolzano,rosso,
-2021-01-20,Provincia autonoma Bolzano,rosso,
-2021-01-21,Provincia autonoma Bolzano,rosso,
-2021-01-22,Provincia autonoma Bolzano,rosso,
-2021-01-23,Provincia autonoma Bolzano,rosso,
-2021-01-24,Provincia autonoma Bolzano,rosso,
-2021-01-25,Provincia autonoma Bolzano,rosso,
-2021-01-26,Provincia autonoma Bolzano,rosso,
-2021-01-27,Provincia autonoma Bolzano,rosso,
-2021-01-28,Provincia autonoma Bolzano,rosso,
-2021-01-29,Provincia autonoma Bolzano,rosso,
-2021-01-30,Provincia autonoma Bolzano,rosso,
-2021-01-31,Provincia autonoma Bolzano,rosso,
-2021-02-01,Provincia autonoma Bolzano,arancione,
-2021-02-02,Provincia autonoma Bolzano,arancione,
-2021-02-03,Provincia autonoma Bolzano,arancione,
-2020-11-06,Provincia autonoma Trento,giallo,
-2020-11-07,Provincia autonoma Trento,giallo,
-2020-11-08,Provincia autonoma Trento,giallo,
-2020-11-09,Provincia autonoma Trento,giallo,
-2020-11-10,Provincia autonoma Trento,giallo,
-2020-11-11,Provincia autonoma Trento,giallo,
-2020-11-12,Provincia autonoma Trento,giallo,
-2020-11-13,Provincia autonoma Trento,giallo,
-2020-11-14,Provincia autonoma Trento,giallo,
-2020-11-15,Provincia autonoma Trento,giallo,
-2020-11-16,Provincia autonoma Trento,giallo,
-2020-11-17,Provincia autonoma Trento,giallo,
-2020-11-18,Provincia autonoma Trento,giallo,
-2020-11-19,Provincia autonoma Trento,giallo,
-2020-11-20,Provincia autonoma Trento,giallo,
-2020-11-21,Provincia autonoma Trento,giallo,
-2020-11-22,Provincia autonoma Trento,giallo,
-2020-11-23,Provincia autonoma Trento,giallo,
-2020-11-24,Provincia autonoma Trento,giallo,
-2020-11-25,Provincia autonoma Trento,giallo,
-2020-11-26,Provincia autonoma Trento,giallo,
-2020-11-27,Provincia autonoma Trento,giallo,
-2020-11-28,Provincia autonoma Trento,giallo,
-2020-11-29,Provincia autonoma Trento,giallo,
-2020-11-30,Provincia autonoma Trento,giallo,
-2020-12-01,Provincia autonoma Trento,giallo,
-2020-12-02,Provincia autonoma Trento,giallo,
-2020-12-03,Provincia autonoma Trento,giallo,
-2020-12-04,Provincia autonoma Trento,giallo,
-2020-12-05,Provincia autonoma Trento,giallo,
-2020-12-06,Provincia autonoma Trento,giallo,
-2020-12-07,Provincia autonoma Trento,giallo,
-2020-12-08,Provincia autonoma Trento,giallo,
-2020-12-09,Provincia autonoma Trento,giallo,
-2020-12-10,Provincia autonoma Trento,giallo,
-2020-12-11,Provincia autonoma Trento,giallo,
-2020-12-12,Provincia autonoma Trento,giallo,
-2020-12-13,Provincia autonoma Trento,giallo,
-2020-12-14,Provincia autonoma Trento,giallo,
-2020-12-15,Provincia autonoma Trento,giallo,
-2020-12-16,Provincia autonoma Trento,giallo,
-2020-12-17,Provincia autonoma Trento,giallo,
-2020-12-18,Provincia autonoma Trento,giallo,
-2020-12-19,Provincia autonoma Trento,giallo,
-2020-12-20,Provincia autonoma Trento,giallo,
-2020-12-21,Provincia autonoma Trento,giallo,
-2020-12-22,Provincia autonoma Trento,giallo,
-2020-12-23,Provincia autonoma Trento,giallo,
-2020-12-24,Provincia autonoma Trento,rosso,
-2020-12-25,Provincia autonoma Trento,rosso,
-2020-12-26,Provincia autonoma Trento,rosso,
-2020-12-27,Provincia autonoma Trento,rosso,
-2020-12-28,Provincia autonoma Trento,arancione,
-2020-12-29,Provincia autonoma Trento,arancione,
-2020-12-30,Provincia autonoma Trento,arancione,
-2020-12-31,Provincia autonoma Trento,rosso,
-2021-01-01,Provincia autonoma Trento,rosso,
-2021-01-02,Provincia autonoma Trento,rosso,
-2021-01-03,Provincia autonoma Trento,rosso,
-2021-01-04,Provincia autonoma Trento,arancione,
-2021-01-05,Provincia autonoma Trento,rosso,
-2021-01-06,Provincia autonoma Trento,rosso,
-2021-01-07,Provincia autonoma Trento,giallo,
-2021-01-08,Provincia autonoma Trento,giallo,
-2021-01-09,Provincia autonoma Trento,arancione,
-2021-01-10,Provincia autonoma Trento,giallo,
-2021-01-11,Provincia autonoma Trento,giallo,
-2021-01-12,Provincia autonoma Trento,giallo,
-2021-01-13,Provincia autonoma Trento,giallo,
-2021-01-14,Provincia autonoma Trento,giallo,
-2021-01-15,Provincia autonoma Trento,giallo,
-2021-01-16,Provincia autonoma Trento,giallo,
-2021-01-17,Provincia autonoma Trento,giallo,
-2021-01-18,Provincia autonoma Trento,giallo,
-2021-01-19,Provincia autonoma Trento,giallo,
-2021-01-20,Provincia autonoma Trento,giallo,
-2021-01-21,Provincia autonoma Trento,giallo,
-2021-01-22,Provincia autonoma Trento,giallo,
-2021-01-23,Provincia autonoma Trento,giallo,
-2021-01-24,Provincia autonoma Trento,giallo,
-2021-01-25,Provincia autonoma Trento,giallo,
-2021-01-26,Provincia autonoma Trento,giallo,
-2021-01-27,Provincia autonoma Trento,giallo,
-2021-01-28,Provincia autonoma Trento,giallo,
-2021-01-29,Provincia autonoma Trento,giallo,
-2021-01-30,Provincia autonoma Trento,giallo,
-2021-01-31,Provincia autonoma Trento,giallo,
-2021-02-01,Provincia autonoma Trento,giallo,
-2021-02-02,Provincia autonoma Trento,giallo,
-2021-02-03,Provincia autonoma Trento,giallo,
-2020-11-06,Puglia,giallo,
-2020-11-07,Puglia,giallo,
-2020-11-08,Puglia,giallo,
-2020-11-09,Puglia,giallo,
-2020-11-10,Puglia,giallo,
-2020-11-11,Puglia,giallo,
-2020-11-12,Puglia,giallo,
-2020-11-13,Puglia,giallo,
-2020-11-14,Puglia,giallo,
-2020-11-15,Puglia,giallo,
-2020-11-16,Puglia,giallo,
-2020-11-17,Puglia,giallo,
-2020-11-18,Puglia,giallo,
-2020-11-19,Puglia,giallo,
-2020-11-20,Puglia,arancione,
-2020-11-21,Puglia,arancione,
-2020-11-22,Puglia,arancione,
-2020-11-23,Puglia,arancione,
-2020-11-24,Puglia,arancione,
-2020-11-25,Puglia,arancione,
-2020-11-26,Puglia,arancione,
-2020-11-27,Puglia,arancione,
-2020-11-28,Puglia,arancione,
-2020-11-29,Puglia,arancione,
-2020-11-30,Puglia,arancione,
-2020-12-01,Puglia,arancione,
-2020-12-02,Puglia,arancione,
-2020-12-03,Puglia,arancione,
-2020-12-04,Puglia,arancione,
-2020-12-05,Puglia,arancione,
-2020-12-06,Puglia,giallo,
-2020-12-07,Puglia,giallo,
-2020-12-08,Puglia,giallo,
-2020-12-09,Puglia,giallo,
-2020-12-10,Puglia,giallo,
-2020-12-11,Puglia,giallo,
-2020-12-12,Puglia,giallo,
-2020-12-13,Puglia,giallo,
-2020-12-14,Puglia,giallo,
-2020-12-15,Puglia,giallo,
-2020-12-16,Puglia,giallo,
-2020-12-17,Puglia,giallo,
-2020-12-18,Puglia,giallo,
-2020-12-19,Puglia,giallo,
-2020-12-20,Puglia,giallo,
-2020-12-21,Puglia,giallo,
-2020-12-22,Puglia,giallo,
-2020-12-23,Puglia,giallo,
-2020-12-24,Puglia,rosso,
-2020-12-25,Puglia,rosso,
-2020-12-26,Puglia,rosso,
-2020-12-27,Puglia,rosso,
-2020-12-28,Puglia,arancione,
-2020-12-29,Puglia,arancione,
-2020-12-30,Puglia,arancione,
-2020-12-31,Puglia,rosso,
-2021-01-01,Puglia,rosso,
-2021-01-02,Puglia,rosso,
-2021-01-03,Puglia,rosso,
-2021-01-04,Puglia,arancione,
-2021-01-05,Puglia,rosso,
-2021-01-06,Puglia,rosso,
-2021-01-07,Puglia,giallo,
-2021-01-08,Puglia,giallo,
-2021-01-09,Puglia,arancione,
-2021-01-10,Puglia,giallo,
-2021-01-11,Puglia,giallo,
-2021-01-12,Puglia,giallo,
-2021-01-13,Puglia,giallo,
-2021-01-14,Puglia,giallo,
-2021-01-15,Puglia,giallo,
-2021-01-16,Puglia,giallo,
-2021-01-17,Puglia,arancione,
-2021-01-18,Puglia,arancione,
-2021-01-19,Puglia,arancione,
-2021-01-20,Puglia,arancione,
-2021-01-21,Puglia,arancione,
-2021-01-22,Puglia,arancione,
-2021-01-23,Puglia,arancione,
-2021-01-24,Puglia,arancione,
-2021-01-25,Puglia,arancione,
-2021-01-26,Puglia,arancione,
-2021-01-27,Puglia,arancione,
-2021-01-28,Puglia,arancione,
-2021-01-29,Puglia,arancione,
-2021-01-30,Puglia,arancione,
-2021-01-31,Puglia,arancione,
-2021-02-01,Puglia,arancione,
-2021-02-02,Puglia,arancione,
-2021-02-03,Puglia,arancione,
-2020-11-06,Sardegna,giallo,
-2020-11-07,Sardegna,giallo,
-2020-11-08,Sardegna,giallo,
-2020-11-09,Sardegna,giallo,
-2020-11-10,Sardegna,giallo,
-2020-11-11,Sardegna,giallo,
-2020-11-12,Sardegna,giallo,
-2020-11-13,Sardegna,giallo,
-2020-11-14,Sardegna,giallo,
-2020-11-15,Sardegna,giallo,
-2020-11-16,Sardegna,giallo,
-2020-11-17,Sardegna,giallo,
-2020-11-18,Sardegna,giallo,
-2020-11-19,Sardegna,giallo,
-2020-11-20,Sardegna,giallo,
-2020-11-21,Sardegna,giallo,
-2020-11-22,Sardegna,giallo,
-2020-11-23,Sardegna,giallo,
-2020-11-24,Sardegna,giallo,
-2020-11-25,Sardegna,giallo,
-2020-11-26,Sardegna,giallo,
-2020-11-27,Sardegna,giallo,
-2020-11-28,Sardegna,giallo,
-2020-11-29,Sardegna,giallo,
-2020-11-30,Sardegna,giallo,
-2020-12-01,Sardegna,giallo,
-2020-12-02,Sardegna,giallo,
-2020-12-03,Sardegna,giallo,
-2020-12-04,Sardegna,giallo,
-2020-12-05,Sardegna,giallo,
-2020-12-06,Sardegna,giallo,
-2020-12-07,Sardegna,giallo,
-2020-12-08,Sardegna,giallo,
-2020-12-09,Sardegna,giallo,
-2020-12-10,Sardegna,giallo,
-2020-12-11,Sardegna,giallo,
-2020-12-12,Sardegna,giallo,
-2020-12-13,Sardegna,giallo,
-2020-12-14,Sardegna,giallo,
-2020-12-15,Sardegna,giallo,
-2020-12-16,Sardegna,giallo,
-2020-12-17,Sardegna,giallo,
-2020-12-18,Sardegna,giallo,
-2020-12-19,Sardegna,giallo,
-2020-12-20,Sardegna,giallo,
-2020-12-21,Sardegna,giallo,
-2020-12-22,Sardegna,giallo,
-2020-12-23,Sardegna,giallo,
-2020-12-24,Sardegna,rosso,
-2020-12-25,Sardegna,rosso,
-2020-12-26,Sardegna,rosso,
-2020-12-27,Sardegna,rosso,
-2020-12-28,Sardegna,arancione,
-2020-12-29,Sardegna,arancione,
-2020-12-30,Sardegna,arancione,
-2020-12-31,Sardegna,rosso,
-2021-01-01,Sardegna,rosso,
-2021-01-02,Sardegna,rosso,
-2021-01-03,Sardegna,rosso,
-2021-01-04,Sardegna,arancione,
-2021-01-05,Sardegna,rosso,
-2021-01-06,Sardegna,rosso,
-2021-01-07,Sardegna,giallo,
-2021-01-08,Sardegna,giallo,
-2021-01-09,Sardegna,arancione,
-2021-01-10,Sardegna,giallo,
-2021-01-11,Sardegna,giallo,
-2021-01-12,Sardegna,giallo,
-2021-01-13,Sardegna,giallo,
-2021-01-14,Sardegna,giallo,
-2021-01-15,Sardegna,giallo,
-2021-01-16,Sardegna,giallo,
-2021-01-17,Sardegna,giallo,
-2021-01-18,Sardegna,giallo,
-2021-01-19,Sardegna,giallo,
-2021-01-20,Sardegna,giallo,
-2021-01-21,Sardegna,giallo,
-2021-01-22,Sardegna,giallo,
-2021-01-23,Sardegna,giallo,
-2021-01-24,Sardegna,arancione,
-2021-01-25,Sardegna,arancione,
-2021-01-26,Sardegna,arancione,
-2021-01-27,Sardegna,arancione,
-2021-01-28,Sardegna,arancione,
-2021-01-29,Sardegna,arancione,
-2021-01-30,Sardegna,arancione,
-2021-01-31,Sardegna,arancione,
-2021-02-01,Sardegna,arancione,
-2021-02-02,Sardegna,arancione,
-2021-02-03,Sardegna,arancione,
-2020-11-06,Sicilia,giallo,
-2020-11-07,Sicilia,giallo,
-2020-11-08,Sicilia,giallo,
-2020-11-09,Sicilia,giallo,
-2020-11-10,Sicilia,giallo,
-2020-11-11,Sicilia,giallo,
-2020-11-12,Sicilia,giallo,
-2020-11-13,Sicilia,giallo,
-2020-11-14,Sicilia,giallo,
-2020-11-15,Sicilia,giallo,
-2020-11-16,Sicilia,giallo,
-2020-11-17,Sicilia,giallo,
-2020-11-18,Sicilia,giallo,
-2020-11-19,Sicilia,giallo,
-2020-11-20,Sicilia,arancione,
-2020-11-21,Sicilia,arancione,
-2020-11-22,Sicilia,arancione,
-2020-11-23,Sicilia,arancione,
-2020-11-24,Sicilia,arancione,
-2020-11-25,Sicilia,arancione,
-2020-11-26,Sicilia,arancione,
-2020-11-27,Sicilia,arancione,
-2020-11-28,Sicilia,arancione,
-2020-11-29,Sicilia,giallo,
-2020-11-30,Sicilia,giallo,
-2020-12-01,Sicilia,giallo,
-2020-12-02,Sicilia,giallo,
-2020-12-03,Sicilia,giallo,
-2020-12-04,Sicilia,giallo,
-2020-12-05,Sicilia,giallo,
-2020-12-06,Sicilia,giallo,
-2020-12-07,Sicilia,giallo,
-2020-12-08,Sicilia,giallo,
-2020-12-09,Sicilia,giallo,
-2020-12-10,Sicilia,giallo,
-2020-12-11,Sicilia,giallo,
-2020-12-12,Sicilia,giallo,
-2020-12-13,Sicilia,giallo,
-2020-12-14,Sicilia,giallo,
-2020-12-15,Sicilia,giallo,
-2020-12-16,Sicilia,giallo,
-2020-12-17,Sicilia,giallo,
-2020-12-18,Sicilia,giallo,
-2020-12-19,Sicilia,giallo,
-2020-12-20,Sicilia,giallo,
-2020-12-21,Sicilia,giallo,
-2020-12-22,Sicilia,giallo,
-2020-12-23,Sicilia,giallo,
-2020-12-24,Sicilia,rosso,
-2020-12-25,Sicilia,rosso,
-2020-12-26,Sicilia,rosso,
-2020-12-27,Sicilia,rosso,
-2020-12-28,Sicilia,arancione,
-2020-12-29,Sicilia,arancione,
-2020-12-30,Sicilia,arancione,
-2020-12-31,Sicilia,rosso,
-2021-01-01,Sicilia,rosso,
-2021-01-02,Sicilia,rosso,
-2021-01-03,Sicilia,rosso,
-2021-01-04,Sicilia,arancione,
-2021-01-05,Sicilia,rosso,
-2021-01-06,Sicilia,rosso,
-2021-01-07,Sicilia,giallo,
-2021-01-08,Sicilia,giallo,
-2021-01-09,Sicilia,arancione,
-2021-01-10,Sicilia,arancione,
-2021-01-11,Sicilia,arancione,
-2021-01-12,Sicilia,arancione,
-2021-01-13,Sicilia,arancione,
-2021-01-14,Sicilia,arancione,
-2021-01-15,Sicilia,arancione,
-2021-01-16,Sicilia,arancione,
-2021-01-17,Sicilia,rosso,
-2021-01-18,Sicilia,rosso,
-2021-01-19,Sicilia,rosso,
-2021-01-20,Sicilia,rosso,
-2021-01-21,Sicilia,rosso,
-2021-01-22,Sicilia,rosso,
-2021-01-23,Sicilia,rosso,
-2021-01-24,Sicilia,rosso,
-2021-01-25,Sicilia,rosso,
-2021-01-26,Sicilia,rosso,
-2021-01-27,Sicilia,rosso,
-2021-01-28,Sicilia,rosso,
-2021-01-29,Sicilia,rosso,
-2021-01-30,Sicilia,rosso,
-2021-01-31,Sicilia,rosso,
-2021-02-01,Sicilia,arancione,
-2021-02-02,Sicilia,arancione,
-2021-02-03,Sicilia,arancione,
-2020-11-06,Toscana,giallo,
-2020-11-07,Toscana,giallo,
-2020-11-08,Toscana,giallo,
-2020-11-09,Toscana,giallo,
-2020-11-10,Toscana,arancione,
-2020-11-11,Toscana,arancione,
-2020-11-12,Toscana,arancione,
-2020-11-13,Toscana,arancione,
-2020-11-14,Toscana,arancione,
-2020-11-15,Toscana,rosso,
-2020-11-16,Toscana,rosso,
-2020-11-17,Toscana,rosso,
-2020-11-18,Toscana,rosso,
-2020-11-19,Toscana,rosso,
-2020-11-20,Toscana,rosso,
-2020-11-21,Toscana,rosso,
-2020-11-22,Toscana,rosso,
-2020-11-23,Toscana,rosso,
-2020-11-24,Toscana,rosso,
-2020-11-25,Toscana,rosso,
-2020-11-26,Toscana,rosso,
-2020-11-27,Toscana,rosso,
-2020-11-28,Toscana,rosso,
-2020-11-29,Toscana,rosso,
-2020-11-30,Toscana,rosso,
-2020-12-01,Toscana,rosso,
-2020-12-02,Toscana,rosso,
-2020-12-03,Toscana,rosso,
-2020-12-04,Toscana,rosso,
-2020-12-05,Toscana,rosso,
-2020-12-06,Toscana,arancione,
-2020-12-07,Toscana,arancione,
-2020-12-08,Toscana,arancione,
-2020-12-09,Toscana,arancione,
-2020-12-10,Toscana,arancione,
-2020-12-11,Toscana,arancione,
-2020-12-12,Toscana,arancione,
-2020-12-13,Toscana,arancione,
-2020-12-14,Toscana,arancione,
-2020-12-15,Toscana,arancione,
-2020-12-16,Toscana,arancione,
-2020-12-17,Toscana,arancione,
-2020-12-18,Toscana,arancione,
-2020-12-19,Toscana,arancione,
-2020-12-20,Toscana,arancione,
-2020-12-21,Toscana,arancione,
-2020-12-22,Toscana,arancione,
-2020-12-23,Toscana,arancione,
-2020-12-24,Toscana,rosso,
-2020-12-25,Toscana,rosso,
-2020-12-26,Toscana,rosso,
-2020-12-27,Toscana,rosso,
-2020-12-28,Toscana,arancione,
-2020-12-29,Toscana,arancione,
-2020-12-30,Toscana,arancione,
-2020-12-31,Toscana,rosso,
-2021-01-01,Toscana,rosso,
-2021-01-02,Toscana,rosso,
-2021-01-03,Toscana,rosso,
-2021-01-04,Toscana,arancione,
-2021-01-05,Toscana,rosso,
-2021-01-06,Toscana,rosso,
-2021-01-07,Toscana,giallo,
-2021-01-08,Toscana,giallo,
-2021-01-09,Toscana,arancione,
-2021-01-10,Toscana,giallo,
-2021-01-11,Toscana,giallo,
-2021-01-12,Toscana,giallo,
-2021-01-13,Toscana,giallo,
-2021-01-14,Toscana,giallo,
-2021-01-15,Toscana,giallo,
-2021-01-16,Toscana,giallo,
-2021-01-17,Toscana,giallo,
-2021-01-18,Toscana,giallo,
-2021-01-19,Toscana,giallo,
-2021-01-20,Toscana,giallo,
-2021-01-21,Toscana,giallo,
-2021-01-22,Toscana,giallo,
-2021-01-23,Toscana,giallo,
-2021-01-24,Toscana,giallo,
-2021-01-25,Toscana,giallo,
-2021-01-26,Toscana,giallo,
-2021-01-27,Toscana,giallo,
-2021-01-28,Toscana,giallo,
-2021-01-29,Toscana,giallo,
-2021-01-30,Toscana,giallo,
-2021-01-31,Toscana,giallo,
-2021-02-01,Toscana,giallo,
-2021-02-02,Toscana,giallo,
-2021-02-03,Toscana,giallo,
-2020-11-06,Umbria,giallo,
-2020-11-07,Umbria,giallo,
-2020-11-08,Umbria,giallo,
-2020-11-09,Umbria,giallo,
-2020-11-10,Umbria,arancione,
-2020-11-11,Umbria,arancione,
-2020-11-12,Umbria,arancione,
-2020-11-13,Umbria,arancione,
-2020-11-14,Umbria,arancione,
-2020-11-15,Umbria,arancione,
-2020-11-16,Umbria,arancione,
-2020-11-17,Umbria,arancione,
-2020-11-18,Umbria,arancione,
-2020-11-19,Umbria,arancione,
-2020-11-20,Umbria,arancione,
-2020-11-21,Umbria,arancione,
-2020-11-22,Umbria,arancione,
-2020-11-23,Umbria,arancione,
-2020-11-24,Umbria,arancione,
-2020-11-25,Umbria,arancione,
-2020-11-26,Umbria,arancione,
-2020-11-27,Umbria,arancione,
-2020-11-28,Umbria,arancione,
-2020-11-29,Umbria,arancione,
-2020-11-30,Umbria,arancione,
-2020-12-01,Umbria,arancione,
-2020-12-02,Umbria,arancione,
-2020-12-03,Umbria,arancione,
-2020-12-04,Umbria,arancione,
-2020-12-05,Umbria,arancione,
-2020-12-06,Umbria,giallo,
-2020-12-07,Umbria,giallo,
-2020-12-08,Umbria,giallo,
-2020-12-09,Umbria,giallo,
-2020-12-10,Umbria,giallo,
-2020-12-11,Umbria,giallo,
-2020-12-12,Umbria,giallo,
-2020-12-13,Umbria,giallo,
-2020-12-14,Umbria,giallo,
-2020-12-15,Umbria,giallo,
-2020-12-16,Umbria,giallo,
-2020-12-17,Umbria,giallo,
-2020-12-18,Umbria,giallo,
-2020-12-19,Umbria,giallo,
-2020-12-20,Umbria,giallo,
-2020-12-21,Umbria,giallo,
-2020-12-22,Umbria,giallo,
-2020-12-23,Umbria,giallo,
-2020-12-24,Umbria,rosso,
-2020-12-25,Umbria,rosso,
-2020-12-26,Umbria,rosso,
-2020-12-27,Umbria,rosso,
-2020-12-28,Umbria,arancione,
-2020-12-29,Umbria,arancione,
-2020-12-30,Umbria,arancione,
-2020-12-31,Umbria,rosso,
-2021-01-01,Umbria,rosso,
-2021-01-02,Umbria,rosso,
-2021-01-03,Umbria,rosso,
-2021-01-04,Umbria,arancione,
-2021-01-05,Umbria,rosso,
-2021-01-06,Umbria,rosso,
-2021-01-07,Umbria,giallo,
-2021-01-08,Umbria,giallo,
-2021-01-09,Umbria,arancione,
-2021-01-10,Umbria,giallo,
-2021-01-11,Umbria,giallo,
-2021-01-12,Umbria,giallo,
-2021-01-13,Umbria,giallo,
-2021-01-14,Umbria,giallo,
-2021-01-15,Umbria,giallo,
-2021-01-16,Umbria,giallo,
-2021-01-17,Umbria,arancione,
-2021-01-18,Umbria,arancione,
-2021-01-19,Umbria,arancione,
-2021-01-20,Umbria,arancione,
-2021-01-21,Umbria,arancione,
-2021-01-22,Umbria,arancione,
-2021-01-23,Umbria,arancione,
-2021-01-24,Umbria,arancione,
-2021-01-25,Umbria,arancione,
-2021-01-26,Umbria,arancione,
-2021-01-27,Umbria,arancione,
-2021-01-28,Umbria,arancione,
-2021-01-29,Umbria,arancione,
-2021-01-30,Umbria,arancione,
-2021-01-31,Umbria,arancione,
-2021-02-01,Umbria,arancione,
-2021-02-02,Umbria,arancione,
-2021-02-03,Umbria,arancione,
-2020-11-06,Valle d'Aosta,giallo,
-2020-11-07,Valle d'Aosta,giallo,
-2020-11-08,Valle d'Aosta,giallo,
-2020-11-09,Valle d'Aosta,giallo,
-2020-11-10,Valle d'Aosta,giallo,
-2020-11-11,Valle d'Aosta,giallo,
-2020-11-12,Valle d'Aosta,giallo,
-2020-11-13,Valle d'Aosta,giallo,
-2020-11-14,Valle d'Aosta,giallo,
-2020-11-15,Valle d'Aosta,giallo,
-2020-11-16,Valle d'Aosta,giallo,
-2020-11-17,Valle d'Aosta,giallo,
-2020-11-18,Valle d'Aosta,giallo,
-2020-11-19,Valle d'Aosta,giallo,
-2020-11-20,Valle d'Aosta,rosso,
-2020-11-21,Valle d'Aosta,rosso,
-2020-11-22,Valle d'Aosta,rosso,
-2020-11-23,Valle d'Aosta,rosso,
-2020-11-24,Valle d'Aosta,rosso,
-2020-11-25,Valle d'Aosta,rosso,
-2020-11-26,Valle d'Aosta,rosso,
-2020-11-27,Valle d'Aosta,rosso,
-2020-11-28,Valle d'Aosta,rosso,
-2020-11-29,Valle d'Aosta,rosso,
-2020-11-30,Valle d'Aosta,rosso,
-2020-12-01,Valle d'Aosta,rosso,
-2020-12-02,Valle d'Aosta,rosso,
-2020-12-03,Valle d'Aosta,rosso,
-2020-12-04,Valle d'Aosta,rosso,
-2020-12-05,Valle d'Aosta,rosso,
-2020-12-06,Valle d'Aosta,arancione,
-2020-12-07,Valle d'Aosta,arancione,
-2020-12-08,Valle d'Aosta,arancione,
-2020-12-09,Valle d'Aosta,arancione,
-2020-12-10,Valle d'Aosta,arancione,
-2020-12-11,Valle d'Aosta,arancione,
-2020-12-12,Valle d'Aosta,arancione,
-2020-12-13,Valle d'Aosta,arancione,
-2020-12-14,Valle d'Aosta,arancione,
-2020-12-15,Valle d'Aosta,arancione,
-2020-12-16,Valle d'Aosta,arancione,
-2020-12-17,Valle d'Aosta,arancione,
-2020-12-18,Valle d'Aosta,arancione,
-2020-12-19,Valle d'Aosta,arancione,
-2020-12-20,Valle d'Aosta,arancione,
-2020-12-21,Valle d'Aosta,arancione,
-2020-12-22,Valle d'Aosta,arancione,
-2020-12-23,Valle d'Aosta,arancione,
-2020-12-24,Valle d'Aosta,rosso,
-2020-12-25,Valle d'Aosta,rosso,
-2020-12-26,Valle d'Aosta,rosso,
-2020-12-27,Valle d'Aosta,rosso,
-2020-12-28,Valle d'Aosta,arancione,
-2020-12-29,Valle d'Aosta,arancione,
-2020-12-30,Valle d'Aosta,arancione,
-2020-12-31,Valle d'Aosta,rosso,
-2021-01-01,Valle d'Aosta,rosso,
-2021-01-02,Valle d'Aosta,rosso,
-2021-01-03,Valle d'Aosta,rosso,
-2021-01-04,Valle d'Aosta,arancione,
-2021-01-05,Valle d'Aosta,rosso,
-2021-01-06,Valle d'Aosta,rosso,
-2021-01-07,Valle d'Aosta,giallo,
-2021-01-08,Valle d'Aosta,giallo,
-2021-01-09,Valle d'Aosta,arancione,
-2021-01-10,Valle d'Aosta,giallo,
-2021-01-11,Valle d'Aosta,giallo,
-2021-01-12,Valle d'Aosta,giallo,
-2021-01-13,Valle d'Aosta,giallo,
-2021-01-14,Valle d'Aosta,giallo,
-2021-01-15,Valle d'Aosta,giallo,
-2021-01-16,Valle d'Aosta,giallo,
-2021-01-17,Valle d'Aosta,arancione,
-2021-01-18,Valle d'Aosta,arancione,
-2021-01-19,Valle d'Aosta,arancione,
-2021-01-20,Valle d'Aosta,arancione,
-2021-01-21,Valle d'Aosta,arancione,
-2021-01-22,Valle d'Aosta,arancione,
-2021-01-23,Valle d'Aosta,arancione,
-2021-01-24,Valle d'Aosta,arancione,
-2021-01-25,Valle d'Aosta,arancione,
-2021-01-26,Valle d'Aosta,arancione,
-2021-01-27,Valle d'Aosta,arancione,
-2021-01-28,Valle d'Aosta,arancione,
-2021-01-29,Valle d'Aosta,arancione,
-2021-01-30,Valle d'Aosta,arancione,
-2021-01-31,Valle d'Aosta,arancione,
-2021-02-01,Valle d'Aosta,giallo,
-2021-02-02,Valle d'Aosta,giallo,
-2021-02-03,Valle d'Aosta,giallo,
-2020-11-06,Veneto,giallo,
-2020-11-07,Veneto,giallo,
-2020-11-08,Veneto,giallo,
-2020-11-09,Veneto,giallo,
-2020-11-10,Veneto,giallo,
-2020-11-11,Veneto,giallo,
-2020-11-12,Veneto,giallo,
-2020-11-13,Veneto,giallo,
-2020-11-14,Veneto,giallo,
-2020-11-15,Veneto,giallo,
-2020-11-16,Veneto,giallo,
-2020-11-17,Veneto,giallo,
-2020-11-18,Veneto,giallo,
-2020-11-19,Veneto,giallo,
-2020-11-20,Veneto,giallo,
-2020-11-21,Veneto,giallo,
-2020-11-22,Veneto,giallo,
-2020-11-23,Veneto,giallo,
-2020-11-24,Veneto,giallo,
-2020-11-25,Veneto,giallo,
-2020-11-26,Veneto,giallo,
-2020-11-27,Veneto,giallo,
-2020-11-28,Veneto,giallo,
-2020-11-29,Veneto,giallo,
-2020-11-30,Veneto,giallo,
-2020-12-01,Veneto,giallo,
-2020-12-02,Veneto,giallo,
-2020-12-03,Veneto,giallo,
-2020-12-04,Veneto,giallo,
-2020-12-05,Veneto,giallo,
-2020-12-06,Veneto,giallo,
-2020-12-07,Veneto,giallo,
-2020-12-08,Veneto,giallo,
-2020-12-09,Veneto,giallo,
-2020-12-10,Veneto,giallo,
-2020-12-11,Veneto,giallo,
-2020-12-12,Veneto,giallo,
-2020-12-13,Veneto,giallo,
-2020-12-14,Veneto,giallo,
-2020-12-15,Veneto,giallo,
-2020-12-16,Veneto,giallo,
-2020-12-17,Veneto,giallo,
-2020-12-18,Veneto,giallo,
-2020-12-19,Veneto,giallo,
-2020-12-20,Veneto,giallo,
-2020-12-21,Veneto,giallo,
-2020-12-22,Veneto,giallo,
-2020-12-23,Veneto,giallo,
-2020-12-24,Veneto,rosso,
-2020-12-25,Veneto,rosso,
-2020-12-26,Veneto,rosso,
-2020-12-27,Veneto,rosso,
-2020-12-28,Veneto,arancione,
-2020-12-29,Veneto,arancione,
-2020-12-30,Veneto,arancione,
-2020-12-31,Veneto,rosso,
-2021-01-01,Veneto,rosso,
-2021-01-02,Veneto,rosso,
-2021-01-03,Veneto,rosso,
-2021-01-04,Veneto,arancione,
-2021-01-05,Veneto,rosso,
-2021-01-06,Veneto,rosso,
-2021-01-07,Veneto,giallo,
-2021-01-08,Veneto,giallo,
-2021-01-09,Veneto,arancione,
-2021-01-10,Veneto,arancione,
-2021-01-11,Veneto,arancione,
-2021-01-12,Veneto,arancione,
-2021-01-13,Veneto,arancione,
-2021-01-14,Veneto,arancione,
-2021-01-15,Veneto,arancione,
-2021-01-16,Veneto,arancione,
-2021-01-17,Veneto,arancione,
-2021-01-18,Veneto,arancione,
-2021-01-19,Veneto,arancione,
-2021-01-20,Veneto,arancione,
-2021-01-21,Veneto,arancione,
-2021-01-22,Veneto,arancione,
-2021-01-23,Veneto,arancione,
-2021-01-24,Veneto,arancione,
-2021-01-25,Veneto,arancione,
-2021-01-26,Veneto,arancione,
-2021-01-27,Veneto,arancione,
-2021-01-28,Veneto,arancione,
-2021-01-29,Veneto,arancione,
-2021-01-30,Veneto,arancione,
-2021-01-31,Veneto,arancione,
-2021-02-01,Veneto,giallo,
-2021-02-02,Veneto,giallo,
-2021-02-03,Veneto,giallo,
+2020-11-06,,giallo,Abruzzo
+2020-11-07,,giallo,Abruzzo
+2020-11-08,,giallo,Abruzzo
+2020-11-09,,giallo,Abruzzo
+2020-11-10,,arancione,Abruzzo
+2020-11-11,,arancione,Abruzzo
+2020-11-12,,arancione,Abruzzo
+2020-11-13,,arancione,Abruzzo
+2020-11-14,,arancione,Abruzzo
+2020-11-15,,arancione,Abruzzo
+2020-11-16,,arancione,Abruzzo
+2020-11-17,,arancione,Abruzzo
+2020-11-18,,arancione,Abruzzo
+2020-11-19,,arancione,Abruzzo
+2020-11-20,,arancione,Abruzzo
+2020-11-21,,arancione,Abruzzo
+2020-11-22,,rosso,Abruzzo
+2020-11-23,,rosso,Abruzzo
+2020-11-24,,rosso,Abruzzo
+2020-11-25,,rosso,Abruzzo
+2020-11-26,,rosso,Abruzzo
+2020-11-27,,rosso,Abruzzo
+2020-11-28,,rosso,Abruzzo
+2020-11-29,,rosso,Abruzzo
+2020-11-30,,rosso,Abruzzo
+2020-12-01,,rosso,Abruzzo
+2020-12-02,,rosso,Abruzzo
+2020-12-03,,rosso,Abruzzo
+2020-12-04,,rosso,Abruzzo
+2020-12-05,,rosso,Abruzzo
+2020-12-06,,rosso,Abruzzo
+2020-12-07,,rosso,Abruzzo
+2020-12-08,,rosso,Abruzzo
+2020-12-09,,rosso,Abruzzo
+2020-12-10,,rosso,Abruzzo
+2020-12-11,,rosso,Abruzzo
+2020-12-12,,rosso,Abruzzo
+2020-12-13,,arancione,Abruzzo
+2020-12-14,,arancione,Abruzzo
+2020-12-15,,arancione,Abruzzo
+2020-12-16,,arancione,Abruzzo
+2020-12-17,,arancione,Abruzzo
+2020-12-18,,arancione,Abruzzo
+2020-12-19,,arancione,Abruzzo
+2020-12-20,,arancione,Abruzzo
+2020-12-21,,arancione,Abruzzo
+2020-12-22,,arancione,Abruzzo
+2020-12-23,,arancione,Abruzzo
+2020-12-24,,rosso,Abruzzo
+2020-12-25,,rosso,Abruzzo
+2020-12-26,,rosso,Abruzzo
+2020-12-27,,rosso,Abruzzo
+2020-12-28,,arancione,Abruzzo
+2020-12-29,,arancione,Abruzzo
+2020-12-30,,arancione,Abruzzo
+2020-12-31,,rosso,Abruzzo
+2021-01-01,,rosso,Abruzzo
+2021-01-02,,rosso,Abruzzo
+2021-01-03,,rosso,Abruzzo
+2021-01-04,,arancione,Abruzzo
+2021-01-05,,rosso,Abruzzo
+2021-01-06,,rosso,Abruzzo
+2021-01-07,,giallo,Abruzzo
+2021-01-08,,giallo,Abruzzo
+2021-01-09,,arancione,Abruzzo
+2021-01-10,,giallo,Abruzzo
+2021-01-11,,giallo,Abruzzo
+2021-01-12,,giallo,Abruzzo
+2021-01-13,,giallo,Abruzzo
+2021-01-14,,giallo,Abruzzo
+2021-01-15,,giallo,Abruzzo
+2021-01-16,,giallo,Abruzzo
+2021-01-17,,arancione,Abruzzo
+2021-01-18,,arancione,Abruzzo
+2021-01-19,,arancione,Abruzzo
+2021-01-20,,arancione,Abruzzo
+2021-01-21,,arancione,Abruzzo
+2021-01-22,,arancione,Abruzzo
+2021-01-23,,arancione,Abruzzo
+2021-01-24,,arancione,Abruzzo
+2021-01-25,,arancione,Abruzzo
+2021-01-26,,arancione,Abruzzo
+2021-01-27,,arancione,Abruzzo
+2021-01-28,,arancione,Abruzzo
+2021-01-29,,arancione,Abruzzo
+2021-01-30,,arancione,Abruzzo
+2021-01-31,,arancione,Abruzzo
+2021-02-01,,giallo,Abruzzo
+2021-02-02,,giallo,Abruzzo
+2021-02-03,,giallo,Abruzzo
+2020-11-06,,giallo,Basilicata
+2020-11-07,,giallo,Basilicata
+2020-11-08,,giallo,Basilicata
+2020-11-09,,giallo,Basilicata
+2020-11-10,,arancione,Basilicata
+2020-11-11,,arancione,Basilicata
+2020-11-12,,arancione,Basilicata
+2020-11-13,,arancione,Basilicata
+2020-11-14,,arancione,Basilicata
+2020-11-15,,arancione,Basilicata
+2020-11-16,,arancione,Basilicata
+2020-11-17,,arancione,Basilicata
+2020-11-18,,arancione,Basilicata
+2020-11-19,,arancione,Basilicata
+2020-11-20,,arancione,Basilicata
+2020-11-21,,arancione,Basilicata
+2020-11-22,,arancione,Basilicata
+2020-11-23,,arancione,Basilicata
+2020-11-24,,arancione,Basilicata
+2020-11-25,,arancione,Basilicata
+2020-11-26,,arancione,Basilicata
+2020-11-27,,arancione,Basilicata
+2020-11-28,,arancione,Basilicata
+2020-11-29,,arancione,Basilicata
+2020-11-30,,arancione,Basilicata
+2020-12-01,,arancione,Basilicata
+2020-12-02,,arancione,Basilicata
+2020-12-03,,arancione,Basilicata
+2020-12-04,,arancione,Basilicata
+2020-12-05,,arancione,Basilicata
+2020-12-06,,arancione,Basilicata
+2020-12-07,,arancione,Basilicata
+2020-12-08,,arancione,Basilicata
+2020-12-09,,arancione,Basilicata
+2020-12-10,,arancione,Basilicata
+2020-12-11,,arancione,Basilicata
+2020-12-12,,arancione,Basilicata
+2020-12-13,,giallo,Basilicata
+2020-12-14,,giallo,Basilicata
+2020-12-15,,giallo,Basilicata
+2020-12-16,,giallo,Basilicata
+2020-12-17,,giallo,Basilicata
+2020-12-18,,giallo,Basilicata
+2020-12-19,,giallo,Basilicata
+2020-12-20,,giallo,Basilicata
+2020-12-21,,giallo,Basilicata
+2020-12-22,,giallo,Basilicata
+2020-12-23,,giallo,Basilicata
+2020-12-24,,rosso,Basilicata
+2020-12-25,,rosso,Basilicata
+2020-12-26,,rosso,Basilicata
+2020-12-27,,rosso,Basilicata
+2020-12-28,,arancione,Basilicata
+2020-12-29,,arancione,Basilicata
+2020-12-30,,arancione,Basilicata
+2020-12-31,,rosso,Basilicata
+2021-01-01,,rosso,Basilicata
+2021-01-02,,rosso,Basilicata
+2021-01-03,,rosso,Basilicata
+2021-01-04,,arancione,Basilicata
+2021-01-05,,rosso,Basilicata
+2021-01-06,,rosso,Basilicata
+2021-01-07,,giallo,Basilicata
+2021-01-08,,giallo,Basilicata
+2021-01-09,,arancione,Basilicata
+2021-01-10,,giallo,Basilicata
+2021-01-11,,giallo,Basilicata
+2021-01-12,,giallo,Basilicata
+2021-01-13,,giallo,Basilicata
+2021-01-14,,giallo,Basilicata
+2021-01-15,,giallo,Basilicata
+2021-01-16,,giallo,Basilicata
+2021-01-17,,giallo,Basilicata
+2021-01-18,,giallo,Basilicata
+2021-01-19,,giallo,Basilicata
+2021-01-20,,giallo,Basilicata
+2021-01-21,,giallo,Basilicata
+2021-01-22,,giallo,Basilicata
+2021-01-23,,giallo,Basilicata
+2021-01-24,,giallo,Basilicata
+2021-01-25,,giallo,Basilicata
+2021-01-26,,giallo,Basilicata
+2021-01-27,,giallo,Basilicata
+2021-01-28,,giallo,Basilicata
+2021-01-29,,giallo,Basilicata
+2021-01-30,,giallo,Basilicata
+2021-01-31,,giallo,Basilicata
+2021-02-01,,giallo,Basilicata
+2021-02-02,,giallo,Basilicata
+2021-02-03,,giallo,Basilicata
+2020-11-06,,giallo,Calabria
+2020-11-07,,giallo,Calabria
+2020-11-08,,giallo,Calabria
+2020-11-09,,giallo,Calabria
+2020-11-10,,giallo,Calabria
+2020-11-11,,giallo,Calabria
+2020-11-12,,giallo,Calabria
+2020-11-13,,giallo,Calabria
+2020-11-14,,giallo,Calabria
+2020-11-15,,giallo,Calabria
+2020-11-16,,giallo,Calabria
+2020-11-17,,giallo,Calabria
+2020-11-18,,giallo,Calabria
+2020-11-19,,giallo,Calabria
+2020-11-20,,rosso,Calabria
+2020-11-21,,rosso,Calabria
+2020-11-22,,rosso,Calabria
+2020-11-23,,rosso,Calabria
+2020-11-24,,rosso,Calabria
+2020-11-25,,rosso,Calabria
+2020-11-26,,rosso,Calabria
+2020-11-27,,rosso,Calabria
+2020-11-28,,rosso,Calabria
+2020-11-29,,arancione,Calabria
+2020-11-30,,arancione,Calabria
+2020-12-01,,arancione,Calabria
+2020-12-02,,arancione,Calabria
+2020-12-03,,arancione,Calabria
+2020-12-04,,arancione,Calabria
+2020-12-05,,arancione,Calabria
+2020-12-06,,arancione,Calabria
+2020-12-07,,arancione,Calabria
+2020-12-08,,arancione,Calabria
+2020-12-09,,arancione,Calabria
+2020-12-10,,arancione,Calabria
+2020-12-11,,arancione,Calabria
+2020-12-12,,arancione,Calabria
+2020-12-13,,giallo,Calabria
+2020-12-14,,giallo,Calabria
+2020-12-15,,giallo,Calabria
+2020-12-16,,giallo,Calabria
+2020-12-17,,giallo,Calabria
+2020-12-18,,giallo,Calabria
+2020-12-19,,giallo,Calabria
+2020-12-20,,giallo,Calabria
+2020-12-21,,giallo,Calabria
+2020-12-22,,giallo,Calabria
+2020-12-23,,giallo,Calabria
+2020-12-24,,rosso,Calabria
+2020-12-25,,rosso,Calabria
+2020-12-26,,rosso,Calabria
+2020-12-27,,rosso,Calabria
+2020-12-28,,arancione,Calabria
+2020-12-29,,arancione,Calabria
+2020-12-30,,arancione,Calabria
+2020-12-31,,rosso,Calabria
+2021-01-01,,rosso,Calabria
+2021-01-02,,rosso,Calabria
+2021-01-03,,rosso,Calabria
+2021-01-04,,arancione,Calabria
+2021-01-05,,rosso,Calabria
+2021-01-06,,rosso,Calabria
+2021-01-07,,giallo,Calabria
+2021-01-08,,giallo,Calabria
+2021-01-09,,arancione,Calabria
+2021-01-10,,arancione,Calabria
+2021-01-11,,arancione,Calabria
+2021-01-12,,arancione,Calabria
+2021-01-13,,arancione,Calabria
+2021-01-14,,arancione,Calabria
+2021-01-15,,arancione,Calabria
+2021-01-16,,arancione,Calabria
+2021-01-17,,arancione,Calabria
+2021-01-18,,arancione,Calabria
+2021-01-19,,arancione,Calabria
+2021-01-20,,arancione,Calabria
+2021-01-21,,arancione,Calabria
+2021-01-22,,arancione,Calabria
+2021-01-23,,arancione,Calabria
+2021-01-24,,arancione,Calabria
+2021-01-25,,arancione,Calabria
+2021-01-26,,arancione,Calabria
+2021-01-27,,arancione,Calabria
+2021-01-28,,arancione,Calabria
+2021-01-29,,arancione,Calabria
+2021-01-30,,arancione,Calabria
+2021-01-31,,arancione,Calabria
+2021-02-01,,giallo,Calabria
+2021-02-02,,giallo,Calabria
+2021-02-03,,giallo,Calabria
+2020-11-06,,giallo,Campania
+2020-11-07,,giallo,Campania
+2020-11-08,,giallo,Campania
+2020-11-09,,giallo,Campania
+2020-11-10,,giallo,Campania
+2020-11-11,,giallo,Campania
+2020-11-12,,giallo,Campania
+2020-11-13,,giallo,Campania
+2020-11-14,,giallo,Campania
+2020-11-15,,rosso,Campania
+2020-11-16,,rosso,Campania
+2020-11-17,,rosso,Campania
+2020-11-18,,rosso,Campania
+2020-11-19,,rosso,Campania
+2020-11-20,,rosso,Campania
+2020-11-21,,rosso,Campania
+2020-11-22,,rosso,Campania
+2020-11-23,,rosso,Campania
+2020-11-24,,rosso,Campania
+2020-11-25,,rosso,Campania
+2020-11-26,,rosso,Campania
+2020-11-27,,rosso,Campania
+2020-11-28,,rosso,Campania
+2020-11-29,,rosso,Campania
+2020-11-30,,rosso,Campania
+2020-12-01,,rosso,Campania
+2020-12-02,,rosso,Campania
+2020-12-03,,rosso,Campania
+2020-12-04,,rosso,Campania
+2020-12-05,,rosso,Campania
+2020-12-06,,arancione,Campania
+2020-12-07,,arancione,Campania
+2020-12-08,,arancione,Campania
+2020-12-09,,arancione,Campania
+2020-12-10,,arancione,Campania
+2020-12-11,,arancione,Campania
+2020-12-12,,arancione,Campania
+2020-12-13,,arancione,Campania
+2020-12-14,,arancione,Campania
+2020-12-15,,arancione,Campania
+2020-12-16,,arancione,Campania
+2020-12-17,,arancione,Campania
+2020-12-18,,arancione,Campania
+2020-12-19,,arancione,Campania
+2020-12-20,,arancione,Campania
+2020-12-21,,arancione,Campania
+2020-12-22,,arancione,Campania
+2020-12-23,,arancione,Campania
+2020-12-24,,rosso,Campania
+2020-12-25,,rosso,Campania
+2020-12-26,,rosso,Campania
+2020-12-27,,rosso,Campania
+2020-12-28,,arancione,Campania
+2020-12-29,,arancione,Campania
+2020-12-30,,arancione,Campania
+2020-12-31,,rosso,Campania
+2021-01-01,,rosso,Campania
+2021-01-02,,rosso,Campania
+2021-01-03,,rosso,Campania
+2021-01-04,,arancione,Campania
+2021-01-05,,rosso,Campania
+2021-01-06,,rosso,Campania
+2021-01-07,,giallo,Campania
+2021-01-08,,giallo,Campania
+2021-01-09,,arancione,Campania
+2021-01-10,,giallo,Campania
+2021-01-11,,giallo,Campania
+2021-01-12,,giallo,Campania
+2021-01-13,,giallo,Campania
+2021-01-14,,giallo,Campania
+2021-01-15,,giallo,Campania
+2021-01-16,,giallo,Campania
+2021-01-17,,giallo,Campania
+2021-01-18,,giallo,Campania
+2021-01-19,,giallo,Campania
+2021-01-20,,giallo,Campania
+2021-01-21,,giallo,Campania
+2021-01-22,,giallo,Campania
+2021-01-23,,giallo,Campania
+2021-01-24,,giallo,Campania
+2021-01-25,,giallo,Campania
+2021-01-26,,giallo,Campania
+2021-01-27,,giallo,Campania
+2021-01-28,,giallo,Campania
+2021-01-29,,giallo,Campania
+2021-01-30,,giallo,Campania
+2021-01-31,,giallo,Campania
+2021-02-01,,giallo,Campania
+2021-02-02,,giallo,Campania
+2021-02-03,,giallo,Campania
+2020-11-06,,giallo,Emilia-Romagna
+2020-11-07,,giallo,Emilia-Romagna
+2020-11-08,,giallo,Emilia-Romagna
+2020-11-09,,giallo,Emilia-Romagna
+2020-11-10,,giallo,Emilia-Romagna
+2020-11-11,,giallo,Emilia-Romagna
+2020-11-12,,giallo,Emilia-Romagna
+2020-11-13,,giallo,Emilia-Romagna
+2020-11-14,,giallo,Emilia-Romagna
+2020-11-15,,arancione,Emilia-Romagna
+2020-11-16,,arancione,Emilia-Romagna
+2020-11-17,,arancione,Emilia-Romagna
+2020-11-18,,arancione,Emilia-Romagna
+2020-11-19,,arancione,Emilia-Romagna
+2020-11-20,,arancione,Emilia-Romagna
+2020-11-21,,arancione,Emilia-Romagna
+2020-11-22,,arancione,Emilia-Romagna
+2020-11-23,,arancione,Emilia-Romagna
+2020-11-24,,arancione,Emilia-Romagna
+2020-11-25,,arancione,Emilia-Romagna
+2020-11-26,,arancione,Emilia-Romagna
+2020-11-27,,arancione,Emilia-Romagna
+2020-11-28,,arancione,Emilia-Romagna
+2020-11-29,,arancione,Emilia-Romagna
+2020-11-30,,arancione,Emilia-Romagna
+2020-12-01,,arancione,Emilia-Romagna
+2020-12-02,,arancione,Emilia-Romagna
+2020-12-03,,arancione,Emilia-Romagna
+2020-12-04,,arancione,Emilia-Romagna
+2020-12-05,,arancione,Emilia-Romagna
+2020-12-06,,giallo,Emilia-Romagna
+2020-12-07,,giallo,Emilia-Romagna
+2020-12-08,,giallo,Emilia-Romagna
+2020-12-09,,giallo,Emilia-Romagna
+2020-12-10,,giallo,Emilia-Romagna
+2020-12-11,,giallo,Emilia-Romagna
+2020-12-12,,giallo,Emilia-Romagna
+2020-12-13,,giallo,Emilia-Romagna
+2020-12-14,,giallo,Emilia-Romagna
+2020-12-15,,giallo,Emilia-Romagna
+2020-12-16,,giallo,Emilia-Romagna
+2020-12-17,,giallo,Emilia-Romagna
+2020-12-18,,giallo,Emilia-Romagna
+2020-12-19,,giallo,Emilia-Romagna
+2020-12-20,,giallo,Emilia-Romagna
+2020-12-21,,giallo,Emilia-Romagna
+2020-12-22,,giallo,Emilia-Romagna
+2020-12-23,,giallo,Emilia-Romagna
+2020-12-24,,rosso,Emilia-Romagna
+2020-12-25,,rosso,Emilia-Romagna
+2020-12-26,,rosso,Emilia-Romagna
+2020-12-27,,rosso,Emilia-Romagna
+2020-12-28,,arancione,Emilia-Romagna
+2020-12-29,,arancione,Emilia-Romagna
+2020-12-30,,arancione,Emilia-Romagna
+2020-12-31,,rosso,Emilia-Romagna
+2021-01-01,,rosso,Emilia-Romagna
+2021-01-02,,rosso,Emilia-Romagna
+2021-01-03,,rosso,Emilia-Romagna
+2021-01-04,,arancione,Emilia-Romagna
+2021-01-05,,rosso,Emilia-Romagna
+2021-01-06,,rosso,Emilia-Romagna
+2021-01-07,,giallo,Emilia-Romagna
+2021-01-08,,giallo,Emilia-Romagna
+2021-01-09,,arancione,Emilia-Romagna
+2021-01-10,,arancione,Emilia-Romagna
+2021-01-11,,arancione,Emilia-Romagna
+2021-01-12,,arancione,Emilia-Romagna
+2021-01-13,,arancione,Emilia-Romagna
+2021-01-14,,arancione,Emilia-Romagna
+2021-01-15,,arancione,Emilia-Romagna
+2021-01-16,,arancione,Emilia-Romagna
+2021-01-17,,arancione,Emilia-Romagna
+2021-01-18,,arancione,Emilia-Romagna
+2021-01-19,,arancione,Emilia-Romagna
+2021-01-20,,arancione,Emilia-Romagna
+2021-01-21,,arancione,Emilia-Romagna
+2021-01-22,,arancione,Emilia-Romagna
+2021-01-23,,arancione,Emilia-Romagna
+2021-01-24,,arancione,Emilia-Romagna
+2021-01-25,,arancione,Emilia-Romagna
+2021-01-26,,arancione,Emilia-Romagna
+2021-01-27,,arancione,Emilia-Romagna
+2021-01-28,,arancione,Emilia-Romagna
+2021-01-29,,arancione,Emilia-Romagna
+2021-01-30,,arancione,Emilia-Romagna
+2021-01-31,,arancione,Emilia-Romagna
+2021-02-01,,giallo,Emilia-Romagna
+2021-02-02,,giallo,Emilia-Romagna
+2021-02-03,,giallo,Emilia-Romagna
+2020-11-06,,giallo,Friuli Venezia Giulia
+2020-11-07,,giallo,Friuli Venezia Giulia
+2020-11-08,,giallo,Friuli Venezia Giulia
+2020-11-09,,giallo,Friuli Venezia Giulia
+2020-11-10,,giallo,Friuli Venezia Giulia
+2020-11-11,,giallo,Friuli Venezia Giulia
+2020-11-12,,giallo,Friuli Venezia Giulia
+2020-11-13,,giallo,Friuli Venezia Giulia
+2020-11-14,,giallo,Friuli Venezia Giulia
+2020-11-15,,arancione,Friuli Venezia Giulia
+2020-11-16,,arancione,Friuli Venezia Giulia
+2020-11-17,,arancione,Friuli Venezia Giulia
+2020-11-18,,arancione,Friuli Venezia Giulia
+2020-11-19,,arancione,Friuli Venezia Giulia
+2020-11-20,,arancione,Friuli Venezia Giulia
+2020-11-21,,arancione,Friuli Venezia Giulia
+2020-11-22,,arancione,Friuli Venezia Giulia
+2020-11-23,,arancione,Friuli Venezia Giulia
+2020-11-24,,arancione,Friuli Venezia Giulia
+2020-11-25,,arancione,Friuli Venezia Giulia
+2020-11-26,,arancione,Friuli Venezia Giulia
+2020-11-27,,arancione,Friuli Venezia Giulia
+2020-11-28,,arancione,Friuli Venezia Giulia
+2020-11-29,,arancione,Friuli Venezia Giulia
+2020-11-30,,arancione,Friuli Venezia Giulia
+2020-12-01,,arancione,Friuli Venezia Giulia
+2020-12-02,,arancione,Friuli Venezia Giulia
+2020-12-03,,arancione,Friuli Venezia Giulia
+2020-12-04,,arancione,Friuli Venezia Giulia
+2020-12-05,,arancione,Friuli Venezia Giulia
+2020-12-06,,giallo,Friuli Venezia Giulia
+2020-12-07,,giallo,Friuli Venezia Giulia
+2020-12-08,,giallo,Friuli Venezia Giulia
+2020-12-09,,giallo,Friuli Venezia Giulia
+2020-12-10,,giallo,Friuli Venezia Giulia
+2020-12-11,,giallo,Friuli Venezia Giulia
+2020-12-12,,giallo,Friuli Venezia Giulia
+2020-12-13,,giallo,Friuli Venezia Giulia
+2020-12-14,,giallo,Friuli Venezia Giulia
+2020-12-15,,giallo,Friuli Venezia Giulia
+2020-12-16,,giallo,Friuli Venezia Giulia
+2020-12-17,,giallo,Friuli Venezia Giulia
+2020-12-18,,giallo,Friuli Venezia Giulia
+2020-12-19,,giallo,Friuli Venezia Giulia
+2020-12-20,,giallo,Friuli Venezia Giulia
+2020-12-21,,giallo,Friuli Venezia Giulia
+2020-12-22,,giallo,Friuli Venezia Giulia
+2020-12-23,,giallo,Friuli Venezia Giulia
+2020-12-24,,rosso,Friuli Venezia Giulia
+2020-12-25,,rosso,Friuli Venezia Giulia
+2020-12-26,,rosso,Friuli Venezia Giulia
+2020-12-27,,rosso,Friuli Venezia Giulia
+2020-12-28,,arancione,Friuli Venezia Giulia
+2020-12-29,,arancione,Friuli Venezia Giulia
+2020-12-30,,arancione,Friuli Venezia Giulia
+2020-12-31,,rosso,Friuli Venezia Giulia
+2021-01-01,,rosso,Friuli Venezia Giulia
+2021-01-02,,rosso,Friuli Venezia Giulia
+2021-01-03,,rosso,Friuli Venezia Giulia
+2021-01-04,,arancione,Friuli Venezia Giulia
+2021-01-05,,rosso,Friuli Venezia Giulia
+2021-01-06,,rosso,Friuli Venezia Giulia
+2021-01-07,,giallo,Friuli Venezia Giulia
+2021-01-08,,giallo,Friuli Venezia Giulia
+2021-01-09,,arancione,Friuli Venezia Giulia
+2021-01-10,,giallo,Friuli Venezia Giulia
+2021-01-11,,giallo,Friuli Venezia Giulia
+2021-01-12,,giallo,Friuli Venezia Giulia
+2021-01-13,,giallo,Friuli Venezia Giulia
+2021-01-14,,giallo,Friuli Venezia Giulia
+2021-01-15,,giallo,Friuli Venezia Giulia
+2021-01-16,,giallo,Friuli Venezia Giulia
+2021-01-17,,arancione,Friuli Venezia Giulia
+2021-01-18,,arancione,Friuli Venezia Giulia
+2021-01-19,,arancione,Friuli Venezia Giulia
+2021-01-20,,arancione,Friuli Venezia Giulia
+2021-01-21,,arancione,Friuli Venezia Giulia
+2021-01-22,,arancione,Friuli Venezia Giulia
+2021-01-23,,arancione,Friuli Venezia Giulia
+2021-01-24,,arancione,Friuli Venezia Giulia
+2021-01-25,,arancione,Friuli Venezia Giulia
+2021-01-26,,arancione,Friuli Venezia Giulia
+2021-01-27,,arancione,Friuli Venezia Giulia
+2021-01-28,,arancione,Friuli Venezia Giulia
+2021-01-29,,arancione,Friuli Venezia Giulia
+2021-01-30,,arancione,Friuli Venezia Giulia
+2021-01-31,,arancione,Friuli Venezia Giulia
+2021-02-01,,giallo,Friuli Venezia Giulia
+2021-02-02,,giallo,Friuli Venezia Giulia
+2021-02-03,,giallo,Friuli Venezia Giulia
+2020-11-06,,giallo,Lazio
+2020-11-07,,giallo,Lazio
+2020-11-08,,giallo,Lazio
+2020-11-09,,giallo,Lazio
+2020-11-10,,giallo,Lazio
+2020-11-11,,giallo,Lazio
+2020-11-12,,giallo,Lazio
+2020-11-13,,giallo,Lazio
+2020-11-14,,giallo,Lazio
+2020-11-15,,giallo,Lazio
+2020-11-16,,giallo,Lazio
+2020-11-17,,giallo,Lazio
+2020-11-18,,giallo,Lazio
+2020-11-19,,giallo,Lazio
+2020-11-20,,giallo,Lazio
+2020-11-21,,giallo,Lazio
+2020-11-22,,giallo,Lazio
+2020-11-23,,giallo,Lazio
+2020-11-24,,giallo,Lazio
+2020-11-25,,giallo,Lazio
+2020-11-26,,giallo,Lazio
+2020-11-27,,giallo,Lazio
+2020-11-28,,giallo,Lazio
+2020-11-29,,giallo,Lazio
+2020-11-30,,giallo,Lazio
+2020-12-01,,giallo,Lazio
+2020-12-02,,giallo,Lazio
+2020-12-03,,giallo,Lazio
+2020-12-04,,giallo,Lazio
+2020-12-05,,giallo,Lazio
+2020-12-06,,giallo,Lazio
+2020-12-07,,giallo,Lazio
+2020-12-08,,giallo,Lazio
+2020-12-09,,giallo,Lazio
+2020-12-10,,giallo,Lazio
+2020-12-11,,giallo,Lazio
+2020-12-12,,giallo,Lazio
+2020-12-13,,giallo,Lazio
+2020-12-14,,giallo,Lazio
+2020-12-15,,giallo,Lazio
+2020-12-16,,giallo,Lazio
+2020-12-17,,giallo,Lazio
+2020-12-18,,giallo,Lazio
+2020-12-19,,giallo,Lazio
+2020-12-20,,giallo,Lazio
+2020-12-21,,giallo,Lazio
+2020-12-22,,giallo,Lazio
+2020-12-23,,giallo,Lazio
+2020-12-24,,rosso,Lazio
+2020-12-25,,rosso,Lazio
+2020-12-26,,rosso,Lazio
+2020-12-27,,rosso,Lazio
+2020-12-28,,arancione,Lazio
+2020-12-29,,arancione,Lazio
+2020-12-30,,arancione,Lazio
+2020-12-31,,rosso,Lazio
+2021-01-01,,rosso,Lazio
+2021-01-02,,rosso,Lazio
+2021-01-03,,rosso,Lazio
+2021-01-04,,arancione,Lazio
+2021-01-05,,rosso,Lazio
+2021-01-06,,rosso,Lazio
+2021-01-07,,giallo,Lazio
+2021-01-08,,giallo,Lazio
+2021-01-09,,arancione,Lazio
+2021-01-10,,giallo,Lazio
+2021-01-11,,giallo,Lazio
+2021-01-12,,giallo,Lazio
+2021-01-13,,giallo,Lazio
+2021-01-14,,giallo,Lazio
+2021-01-15,,giallo,Lazio
+2021-01-16,,giallo,Lazio
+2021-01-17,,arancione,Lazio
+2021-01-18,,arancione,Lazio
+2021-01-19,,arancione,Lazio
+2021-01-20,,arancione,Lazio
+2021-01-21,,arancione,Lazio
+2021-01-22,,arancione,Lazio
+2021-01-23,,arancione,Lazio
+2021-01-24,,arancione,Lazio
+2021-01-25,,arancione,Lazio
+2021-01-26,,arancione,Lazio
+2021-01-27,,arancione,Lazio
+2021-01-28,,arancione,Lazio
+2021-01-29,,arancione,Lazio
+2021-01-30,,arancione,Lazio
+2021-01-31,,arancione,Lazio
+2021-02-01,,giallo,Lazio
+2021-02-02,,giallo,Lazio
+2021-02-03,,giallo,Lazio
+2020-11-06,,giallo,Liguria
+2020-11-07,,giallo,Liguria
+2020-11-08,,giallo,Liguria
+2020-11-09,,giallo,Liguria
+2020-11-10,,arancione,Liguria
+2020-11-11,,arancione,Liguria
+2020-11-12,,arancione,Liguria
+2020-11-13,,arancione,Liguria
+2020-11-14,,arancione,Liguria
+2020-11-15,,arancione,Liguria
+2020-11-16,,arancione,Liguria
+2020-11-17,,arancione,Liguria
+2020-11-18,,arancione,Liguria
+2020-11-19,,arancione,Liguria
+2020-11-20,,arancione,Liguria
+2020-11-21,,arancione,Liguria
+2020-11-22,,arancione,Liguria
+2020-11-23,,arancione,Liguria
+2020-11-24,,arancione,Liguria
+2020-11-25,,arancione,Liguria
+2020-11-26,,arancione,Liguria
+2020-11-27,,arancione,Liguria
+2020-11-28,,arancione,Liguria
+2020-11-29,,giallo,Liguria
+2020-11-30,,giallo,Liguria
+2020-12-01,,giallo,Liguria
+2020-12-02,,giallo,Liguria
+2020-12-03,,giallo,Liguria
+2020-12-04,,giallo,Liguria
+2020-12-05,,giallo,Liguria
+2020-12-06,,giallo,Liguria
+2020-12-07,,giallo,Liguria
+2020-12-08,,giallo,Liguria
+2020-12-09,,giallo,Liguria
+2020-12-10,,giallo,Liguria
+2020-12-11,,giallo,Liguria
+2020-12-12,,giallo,Liguria
+2020-12-13,,giallo,Liguria
+2020-12-14,,giallo,Liguria
+2020-12-15,,giallo,Liguria
+2020-12-16,,giallo,Liguria
+2020-12-17,,giallo,Liguria
+2020-12-18,,giallo,Liguria
+2020-12-19,,giallo,Liguria
+2020-12-20,,giallo,Liguria
+2020-12-21,,giallo,Liguria
+2020-12-22,,giallo,Liguria
+2020-12-23,,giallo,Liguria
+2020-12-24,,rosso,Liguria
+2020-12-25,,rosso,Liguria
+2020-12-26,,rosso,Liguria
+2020-12-27,,rosso,Liguria
+2020-12-28,,arancione,Liguria
+2020-12-29,,arancione,Liguria
+2020-12-30,,arancione,Liguria
+2020-12-31,,rosso,Liguria
+2021-01-01,,rosso,Liguria
+2021-01-02,,rosso,Liguria
+2021-01-03,,rosso,Liguria
+2021-01-04,,arancione,Liguria
+2021-01-05,,rosso,Liguria
+2021-01-06,,rosso,Liguria
+2021-01-07,,giallo,Liguria
+2021-01-08,,giallo,Liguria
+2021-01-09,,arancione,Liguria
+2021-01-10,,giallo,Liguria
+2021-01-11,,giallo,Liguria
+2021-01-12,,giallo,Liguria
+2021-01-13,,giallo,Liguria
+2021-01-14,,giallo,Liguria
+2021-01-15,,giallo,Liguria
+2021-01-16,,giallo,Liguria
+2021-01-17,,arancione,Liguria
+2021-01-18,,arancione,Liguria
+2021-01-19,,arancione,Liguria
+2021-01-20,,arancione,Liguria
+2021-01-21,,arancione,Liguria
+2021-01-22,,arancione,Liguria
+2021-01-23,,arancione,Liguria
+2021-01-24,,arancione,Liguria
+2021-01-25,,arancione,Liguria
+2021-01-26,,arancione,Liguria
+2021-01-27,,arancione,Liguria
+2021-01-28,,arancione,Liguria
+2021-01-29,,arancione,Liguria
+2021-01-30,,arancione,Liguria
+2021-01-31,,arancione,Liguria
+2021-02-01,,giallo,Liguria
+2021-02-02,,giallo,Liguria
+2021-02-03,,giallo,Liguria
+2020-11-06,,giallo,Lombardia
+2020-11-07,,giallo,Lombardia
+2020-11-08,,giallo,Lombardia
+2020-11-09,,giallo,Lombardia
+2020-11-10,,giallo,Lombardia
+2020-11-11,,giallo,Lombardia
+2020-11-12,,giallo,Lombardia
+2020-11-13,,giallo,Lombardia
+2020-11-14,,giallo,Lombardia
+2020-11-15,,giallo,Lombardia
+2020-11-16,,giallo,Lombardia
+2020-11-17,,giallo,Lombardia
+2020-11-18,,giallo,Lombardia
+2020-11-19,,giallo,Lombardia
+2020-11-20,,rosso,Lombardia
+2020-11-21,,rosso,Lombardia
+2020-11-22,,rosso,Lombardia
+2020-11-23,,rosso,Lombardia
+2020-11-24,,rosso,Lombardia
+2020-11-25,,rosso,Lombardia
+2020-11-26,,rosso,Lombardia
+2020-11-27,,rosso,Lombardia
+2020-11-28,,rosso,Lombardia
+2020-11-29,,arancione,Lombardia
+2020-11-30,,arancione,Lombardia
+2020-12-01,,arancione,Lombardia
+2020-12-02,,arancione,Lombardia
+2020-12-03,,arancione,Lombardia
+2020-12-04,,arancione,Lombardia
+2020-12-05,,arancione,Lombardia
+2020-12-06,,arancione,Lombardia
+2020-12-07,,arancione,Lombardia
+2020-12-08,,arancione,Lombardia
+2020-12-09,,arancione,Lombardia
+2020-12-10,,arancione,Lombardia
+2020-12-11,,arancione,Lombardia
+2020-12-12,,arancione,Lombardia
+2020-12-13,,giallo,Lombardia
+2020-12-14,,giallo,Lombardia
+2020-12-15,,giallo,Lombardia
+2020-12-16,,giallo,Lombardia
+2020-12-17,,giallo,Lombardia
+2020-12-18,,giallo,Lombardia
+2020-12-19,,giallo,Lombardia
+2020-12-20,,giallo,Lombardia
+2020-12-21,,giallo,Lombardia
+2020-12-22,,giallo,Lombardia
+2020-12-23,,giallo,Lombardia
+2020-12-24,,rosso,Lombardia
+2020-12-25,,rosso,Lombardia
+2020-12-26,,rosso,Lombardia
+2020-12-27,,rosso,Lombardia
+2020-12-28,,arancione,Lombardia
+2020-12-29,,arancione,Lombardia
+2020-12-30,,arancione,Lombardia
+2020-12-31,,rosso,Lombardia
+2021-01-01,,rosso,Lombardia
+2021-01-02,,rosso,Lombardia
+2021-01-03,,rosso,Lombardia
+2021-01-04,,arancione,Lombardia
+2021-01-05,,rosso,Lombardia
+2021-01-06,,rosso,Lombardia
+2021-01-07,,giallo,Lombardia
+2021-01-08,,giallo,Lombardia
+2021-01-09,,arancione,Lombardia
+2021-01-10,,arancione,Lombardia
+2021-01-11,,arancione,Lombardia
+2021-01-12,,arancione,Lombardia
+2021-01-13,,arancione,Lombardia
+2021-01-14,,arancione,Lombardia
+2021-01-15,,arancione,Lombardia
+2021-01-16,,arancione,Lombardia
+2021-01-17,,rosso,Lombardia
+2021-01-18,,rosso,Lombardia
+2021-01-19,,rosso,Lombardia
+2021-01-20,,rosso,Lombardia
+2021-01-21,,rosso,Lombardia
+2021-01-22,,rosso,Lombardia
+2021-01-23,,rosso,Lombardia
+2021-01-24,,arancione,Lombardia
+2021-01-25,,arancione,Lombardia
+2021-01-26,,arancione,Lombardia
+2021-01-27,,arancione,Lombardia
+2021-01-28,,arancione,Lombardia
+2021-01-29,,arancione,Lombardia
+2021-01-30,,arancione,Lombardia
+2021-01-31,,arancione,Lombardia
+2021-02-01,,giallo,Lombardia
+2021-02-02,,giallo,Lombardia
+2021-02-03,,giallo,Lombardia
+2020-11-06,,giallo,Marche
+2020-11-07,,giallo,Marche
+2020-11-08,,giallo,Marche
+2020-11-09,,giallo,Marche
+2020-11-10,,giallo,Marche
+2020-11-11,,giallo,Marche
+2020-11-12,,giallo,Marche
+2020-11-13,,giallo,Marche
+2020-11-14,,giallo,Marche
+2020-11-15,,arancione,Marche
+2020-11-16,,arancione,Marche
+2020-11-17,,arancione,Marche
+2020-11-18,,arancione,Marche
+2020-11-19,,arancione,Marche
+2020-11-20,,arancione,Marche
+2020-11-21,,arancione,Marche
+2020-11-22,,arancione,Marche
+2020-11-23,,arancione,Marche
+2020-11-24,,arancione,Marche
+2020-11-25,,arancione,Marche
+2020-11-26,,arancione,Marche
+2020-11-27,,arancione,Marche
+2020-11-28,,arancione,Marche
+2020-11-29,,arancione,Marche
+2020-11-30,,arancione,Marche
+2020-12-01,,arancione,Marche
+2020-12-02,,arancione,Marche
+2020-12-03,,arancione,Marche
+2020-12-04,,arancione,Marche
+2020-12-05,,arancione,Marche
+2020-12-06,,giallo,Marche
+2020-12-07,,giallo,Marche
+2020-12-08,,giallo,Marche
+2020-12-09,,giallo,Marche
+2020-12-10,,giallo,Marche
+2020-12-11,,giallo,Marche
+2020-12-12,,giallo,Marche
+2020-12-13,,giallo,Marche
+2020-12-14,,giallo,Marche
+2020-12-15,,giallo,Marche
+2020-12-16,,giallo,Marche
+2020-12-17,,giallo,Marche
+2020-12-18,,giallo,Marche
+2020-12-19,,giallo,Marche
+2020-12-20,,giallo,Marche
+2020-12-21,,giallo,Marche
+2020-12-22,,giallo,Marche
+2020-12-23,,giallo,Marche
+2020-12-24,,rosso,Marche
+2020-12-25,,rosso,Marche
+2020-12-26,,rosso,Marche
+2020-12-27,,rosso,Marche
+2020-12-28,,arancione,Marche
+2020-12-29,,arancione,Marche
+2020-12-30,,arancione,Marche
+2020-12-31,,rosso,Marche
+2021-01-01,,rosso,Marche
+2021-01-02,,rosso,Marche
+2021-01-03,,rosso,Marche
+2021-01-04,,arancione,Marche
+2021-01-05,,rosso,Marche
+2021-01-06,,rosso,Marche
+2021-01-07,,giallo,Marche
+2021-01-08,,giallo,Marche
+2021-01-09,,arancione,Marche
+2021-01-10,,giallo,Marche
+2021-01-11,,giallo,Marche
+2021-01-12,,giallo,Marche
+2021-01-13,,giallo,Marche
+2021-01-14,,giallo,Marche
+2021-01-15,,giallo,Marche
+2021-01-16,,giallo,Marche
+2021-01-17,,arancione,Marche
+2021-01-18,,arancione,Marche
+2021-01-19,,arancione,Marche
+2021-01-20,,arancione,Marche
+2021-01-21,,arancione,Marche
+2021-01-22,,arancione,Marche
+2021-01-23,,arancione,Marche
+2021-01-24,,arancione,Marche
+2021-01-25,,arancione,Marche
+2021-01-26,,arancione,Marche
+2021-01-27,,arancione,Marche
+2021-01-28,,arancione,Marche
+2021-01-29,,arancione,Marche
+2021-01-30,,arancione,Marche
+2021-01-31,,arancione,Marche
+2021-02-01,,giallo,Marche
+2021-02-02,,giallo,Marche
+2021-02-03,,giallo,Marche
+2020-11-06,,giallo,Molise
+2020-11-07,,giallo,Molise
+2020-11-08,,giallo,Molise
+2020-11-09,,giallo,Molise
+2020-11-10,,giallo,Molise
+2020-11-11,,giallo,Molise
+2020-11-12,,giallo,Molise
+2020-11-13,,giallo,Molise
+2020-11-14,,giallo,Molise
+2020-11-15,,giallo,Molise
+2020-11-16,,giallo,Molise
+2020-11-17,,giallo,Molise
+2020-11-18,,giallo,Molise
+2020-11-19,,giallo,Molise
+2020-11-20,,giallo,Molise
+2020-11-21,,giallo,Molise
+2020-11-22,,giallo,Molise
+2020-11-23,,giallo,Molise
+2020-11-24,,giallo,Molise
+2020-11-25,,giallo,Molise
+2020-11-26,,giallo,Molise
+2020-11-27,,giallo,Molise
+2020-11-28,,giallo,Molise
+2020-11-29,,giallo,Molise
+2020-11-30,,giallo,Molise
+2020-12-01,,giallo,Molise
+2020-12-02,,giallo,Molise
+2020-12-03,,giallo,Molise
+2020-12-04,,giallo,Molise
+2020-12-05,,giallo,Molise
+2020-12-06,,giallo,Molise
+2020-12-07,,giallo,Molise
+2020-12-08,,giallo,Molise
+2020-12-09,,giallo,Molise
+2020-12-10,,giallo,Molise
+2020-12-11,,giallo,Molise
+2020-12-12,,giallo,Molise
+2020-12-13,,giallo,Molise
+2020-12-14,,giallo,Molise
+2020-12-15,,giallo,Molise
+2020-12-16,,giallo,Molise
+2020-12-17,,giallo,Molise
+2020-12-18,,giallo,Molise
+2020-12-19,,giallo,Molise
+2020-12-20,,giallo,Molise
+2020-12-21,,giallo,Molise
+2020-12-22,,giallo,Molise
+2020-12-23,,giallo,Molise
+2020-12-24,,rosso,Molise
+2020-12-25,,rosso,Molise
+2020-12-26,,rosso,Molise
+2020-12-27,,rosso,Molise
+2020-12-28,,arancione,Molise
+2020-12-29,,arancione,Molise
+2020-12-30,,arancione,Molise
+2020-12-31,,rosso,Molise
+2021-01-01,,rosso,Molise
+2021-01-02,,rosso,Molise
+2021-01-03,,rosso,Molise
+2021-01-04,,arancione,Molise
+2021-01-05,,rosso,Molise
+2021-01-06,,rosso,Molise
+2021-01-07,,giallo,Molise
+2021-01-08,,giallo,Molise
+2021-01-09,,arancione,Molise
+2021-01-10,,giallo,Molise
+2021-01-11,,giallo,Molise
+2021-01-12,,giallo,Molise
+2021-01-13,,giallo,Molise
+2021-01-14,,giallo,Molise
+2021-01-15,,giallo,Molise
+2021-01-16,,giallo,Molise
+2021-01-17,,giallo,Molise
+2021-01-18,,giallo,Molise
+2021-01-19,,giallo,Molise
+2021-01-20,,giallo,Molise
+2021-01-21,,giallo,Molise
+2021-01-22,,giallo,Molise
+2021-01-23,,giallo,Molise
+2021-01-24,,giallo,Molise
+2021-01-25,,giallo,Molise
+2021-01-26,,giallo,Molise
+2021-01-27,,giallo,Molise
+2021-01-28,,giallo,Molise
+2021-01-29,,giallo,Molise
+2021-01-30,,giallo,Molise
+2021-01-31,,giallo,Molise
+2021-02-01,,giallo,Molise
+2021-02-02,,giallo,Molise
+2021-02-03,,giallo,Molise
+2020-11-06,,giallo,Piemonte
+2020-11-07,,giallo,Piemonte
+2020-11-08,,giallo,Piemonte
+2020-11-09,,giallo,Piemonte
+2020-11-10,,giallo,Piemonte
+2020-11-11,,giallo,Piemonte
+2020-11-12,,giallo,Piemonte
+2020-11-13,,giallo,Piemonte
+2020-11-14,,giallo,Piemonte
+2020-11-15,,giallo,Piemonte
+2020-11-16,,giallo,Piemonte
+2020-11-17,,giallo,Piemonte
+2020-11-18,,giallo,Piemonte
+2020-11-19,,giallo,Piemonte
+2020-11-20,,rosso,Piemonte
+2020-11-21,,rosso,Piemonte
+2020-11-22,,rosso,Piemonte
+2020-11-23,,rosso,Piemonte
+2020-11-24,,rosso,Piemonte
+2020-11-25,,rosso,Piemonte
+2020-11-26,,rosso,Piemonte
+2020-11-27,,rosso,Piemonte
+2020-11-28,,rosso,Piemonte
+2020-11-29,,arancione,Piemonte
+2020-11-30,,arancione,Piemonte
+2020-12-01,,arancione,Piemonte
+2020-12-02,,arancione,Piemonte
+2020-12-03,,arancione,Piemonte
+2020-12-04,,arancione,Piemonte
+2020-12-05,,arancione,Piemonte
+2020-12-06,,arancione,Piemonte
+2020-12-07,,arancione,Piemonte
+2020-12-08,,arancione,Piemonte
+2020-12-09,,arancione,Piemonte
+2020-12-10,,arancione,Piemonte
+2020-12-11,,arancione,Piemonte
+2020-12-12,,arancione,Piemonte
+2020-12-13,,giallo,Piemonte
+2020-12-14,,giallo,Piemonte
+2020-12-15,,giallo,Piemonte
+2020-12-16,,giallo,Piemonte
+2020-12-17,,giallo,Piemonte
+2020-12-18,,giallo,Piemonte
+2020-12-19,,giallo,Piemonte
+2020-12-20,,giallo,Piemonte
+2020-12-21,,giallo,Piemonte
+2020-12-22,,giallo,Piemonte
+2020-12-23,,giallo,Piemonte
+2020-12-24,,rosso,Piemonte
+2020-12-25,,rosso,Piemonte
+2020-12-26,,rosso,Piemonte
+2020-12-27,,rosso,Piemonte
+2020-12-28,,arancione,Piemonte
+2020-12-29,,arancione,Piemonte
+2020-12-30,,arancione,Piemonte
+2020-12-31,,rosso,Piemonte
+2021-01-01,,rosso,Piemonte
+2021-01-02,,rosso,Piemonte
+2021-01-03,,rosso,Piemonte
+2021-01-04,,arancione,Piemonte
+2021-01-05,,rosso,Piemonte
+2021-01-06,,rosso,Piemonte
+2021-01-07,,giallo,Piemonte
+2021-01-08,,giallo,Piemonte
+2021-01-09,,arancione,Piemonte
+2021-01-10,,giallo,Piemonte
+2021-01-11,,giallo,Piemonte
+2021-01-12,,giallo,Piemonte
+2021-01-13,,giallo,Piemonte
+2021-01-14,,giallo,Piemonte
+2021-01-15,,giallo,Piemonte
+2021-01-16,,giallo,Piemonte
+2021-01-17,,arancione,Piemonte
+2021-01-18,,arancione,Piemonte
+2021-01-19,,arancione,Piemonte
+2021-01-20,,arancione,Piemonte
+2021-01-21,,arancione,Piemonte
+2021-01-22,,arancione,Piemonte
+2021-01-23,,arancione,Piemonte
+2021-01-24,,arancione,Piemonte
+2021-01-25,,arancione,Piemonte
+2021-01-26,,arancione,Piemonte
+2021-01-27,,arancione,Piemonte
+2021-01-28,,arancione,Piemonte
+2021-01-29,,arancione,Piemonte
+2021-01-30,,arancione,Piemonte
+2021-01-31,,arancione,Piemonte
+2021-02-01,,giallo,Piemonte
+2021-02-02,,giallo,Piemonte
+2021-02-03,,giallo,Piemonte
+2020-11-06,,giallo,Provincia autonoma Bolzano
+2020-11-07,,giallo,Provincia autonoma Bolzano
+2020-11-08,,giallo,Provincia autonoma Bolzano
+2020-11-09,,giallo,Provincia autonoma Bolzano
+2020-11-10,,rosso,Provincia autonoma Bolzano
+2020-11-11,,rosso,Provincia autonoma Bolzano
+2020-11-12,,rosso,Provincia autonoma Bolzano
+2020-11-13,,rosso,Provincia autonoma Bolzano
+2020-11-14,,rosso,Provincia autonoma Bolzano
+2020-11-15,,rosso,Provincia autonoma Bolzano
+2020-11-16,,rosso,Provincia autonoma Bolzano
+2020-11-17,,rosso,Provincia autonoma Bolzano
+2020-11-18,,rosso,Provincia autonoma Bolzano
+2020-11-19,,rosso,Provincia autonoma Bolzano
+2020-11-20,,rosso,Provincia autonoma Bolzano
+2020-11-21,,rosso,Provincia autonoma Bolzano
+2020-11-22,,rosso,Provincia autonoma Bolzano
+2020-11-23,,rosso,Provincia autonoma Bolzano
+2020-11-24,,rosso,Provincia autonoma Bolzano
+2020-11-25,,rosso,Provincia autonoma Bolzano
+2020-11-26,,rosso,Provincia autonoma Bolzano
+2020-11-27,,rosso,Provincia autonoma Bolzano
+2020-11-28,,rosso,Provincia autonoma Bolzano
+2020-11-29,,rosso,Provincia autonoma Bolzano
+2020-11-30,,rosso,Provincia autonoma Bolzano
+2020-12-01,,rosso,Provincia autonoma Bolzano
+2020-12-02,,rosso,Provincia autonoma Bolzano
+2020-12-03,,rosso,Provincia autonoma Bolzano
+2020-12-04,,rosso,Provincia autonoma Bolzano
+2020-12-05,,rosso,Provincia autonoma Bolzano
+2020-12-06,,arancione,Provincia autonoma Bolzano
+2020-12-07,,arancione,Provincia autonoma Bolzano
+2020-12-08,,arancione,Provincia autonoma Bolzano
+2020-12-09,,arancione,Provincia autonoma Bolzano
+2020-12-10,,arancione,Provincia autonoma Bolzano
+2020-12-11,,arancione,Provincia autonoma Bolzano
+2020-12-12,,arancione,Provincia autonoma Bolzano
+2020-12-13,,arancione,Provincia autonoma Bolzano
+2020-12-14,,arancione,Provincia autonoma Bolzano
+2020-12-15,,arancione,Provincia autonoma Bolzano
+2020-12-16,,arancione,Provincia autonoma Bolzano
+2020-12-17,,arancione,Provincia autonoma Bolzano
+2020-12-18,,arancione,Provincia autonoma Bolzano
+2020-12-19,,arancione,Provincia autonoma Bolzano
+2020-12-20,,arancione,Provincia autonoma Bolzano
+2020-12-21,,arancione,Provincia autonoma Bolzano
+2020-12-22,,arancione,Provincia autonoma Bolzano
+2020-12-23,,arancione,Provincia autonoma Bolzano
+2020-12-24,,rosso,Provincia autonoma Bolzano
+2020-12-25,,rosso,Provincia autonoma Bolzano
+2020-12-26,,rosso,Provincia autonoma Bolzano
+2020-12-27,,rosso,Provincia autonoma Bolzano
+2020-12-28,,arancione,Provincia autonoma Bolzano
+2020-12-29,,arancione,Provincia autonoma Bolzano
+2020-12-30,,arancione,Provincia autonoma Bolzano
+2020-12-31,,rosso,Provincia autonoma Bolzano
+2021-01-01,,rosso,Provincia autonoma Bolzano
+2021-01-02,,rosso,Provincia autonoma Bolzano
+2021-01-03,,rosso,Provincia autonoma Bolzano
+2021-01-04,,arancione,Provincia autonoma Bolzano
+2021-01-05,,rosso,Provincia autonoma Bolzano
+2021-01-06,,rosso,Provincia autonoma Bolzano
+2021-01-07,,giallo,Provincia autonoma Bolzano
+2021-01-08,,giallo,Provincia autonoma Bolzano
+2021-01-09,,arancione,Provincia autonoma Bolzano
+2021-01-10,,giallo,Provincia autonoma Bolzano
+2021-01-11,,giallo,Provincia autonoma Bolzano
+2021-01-12,,giallo,Provincia autonoma Bolzano
+2021-01-13,,giallo,Provincia autonoma Bolzano
+2021-01-14,,giallo,Provincia autonoma Bolzano
+2021-01-15,,giallo,Provincia autonoma Bolzano
+2021-01-16,,giallo,Provincia autonoma Bolzano
+2021-01-17,,rosso,Provincia autonoma Bolzano
+2021-01-18,,rosso,Provincia autonoma Bolzano
+2021-01-19,,rosso,Provincia autonoma Bolzano
+2021-01-20,,rosso,Provincia autonoma Bolzano
+2021-01-21,,rosso,Provincia autonoma Bolzano
+2021-01-22,,rosso,Provincia autonoma Bolzano
+2021-01-23,,rosso,Provincia autonoma Bolzano
+2021-01-24,,rosso,Provincia autonoma Bolzano
+2021-01-25,,rosso,Provincia autonoma Bolzano
+2021-01-26,,rosso,Provincia autonoma Bolzano
+2021-01-27,,rosso,Provincia autonoma Bolzano
+2021-01-28,,rosso,Provincia autonoma Bolzano
+2021-01-29,,rosso,Provincia autonoma Bolzano
+2021-01-30,,rosso,Provincia autonoma Bolzano
+2021-01-31,,rosso,Provincia autonoma Bolzano
+2021-02-01,,arancione,Provincia autonoma Bolzano
+2021-02-02,,arancione,Provincia autonoma Bolzano
+2021-02-03,,arancione,Provincia autonoma Bolzano
+2020-11-06,,giallo,Provincia autonoma Trento
+2020-11-07,,giallo,Provincia autonoma Trento
+2020-11-08,,giallo,Provincia autonoma Trento
+2020-11-09,,giallo,Provincia autonoma Trento
+2020-11-10,,giallo,Provincia autonoma Trento
+2020-11-11,,giallo,Provincia autonoma Trento
+2020-11-12,,giallo,Provincia autonoma Trento
+2020-11-13,,giallo,Provincia autonoma Trento
+2020-11-14,,giallo,Provincia autonoma Trento
+2020-11-15,,giallo,Provincia autonoma Trento
+2020-11-16,,giallo,Provincia autonoma Trento
+2020-11-17,,giallo,Provincia autonoma Trento
+2020-11-18,,giallo,Provincia autonoma Trento
+2020-11-19,,giallo,Provincia autonoma Trento
+2020-11-20,,giallo,Provincia autonoma Trento
+2020-11-21,,giallo,Provincia autonoma Trento
+2020-11-22,,giallo,Provincia autonoma Trento
+2020-11-23,,giallo,Provincia autonoma Trento
+2020-11-24,,giallo,Provincia autonoma Trento
+2020-11-25,,giallo,Provincia autonoma Trento
+2020-11-26,,giallo,Provincia autonoma Trento
+2020-11-27,,giallo,Provincia autonoma Trento
+2020-11-28,,giallo,Provincia autonoma Trento
+2020-11-29,,giallo,Provincia autonoma Trento
+2020-11-30,,giallo,Provincia autonoma Trento
+2020-12-01,,giallo,Provincia autonoma Trento
+2020-12-02,,giallo,Provincia autonoma Trento
+2020-12-03,,giallo,Provincia autonoma Trento
+2020-12-04,,giallo,Provincia autonoma Trento
+2020-12-05,,giallo,Provincia autonoma Trento
+2020-12-06,,giallo,Provincia autonoma Trento
+2020-12-07,,giallo,Provincia autonoma Trento
+2020-12-08,,giallo,Provincia autonoma Trento
+2020-12-09,,giallo,Provincia autonoma Trento
+2020-12-10,,giallo,Provincia autonoma Trento
+2020-12-11,,giallo,Provincia autonoma Trento
+2020-12-12,,giallo,Provincia autonoma Trento
+2020-12-13,,giallo,Provincia autonoma Trento
+2020-12-14,,giallo,Provincia autonoma Trento
+2020-12-15,,giallo,Provincia autonoma Trento
+2020-12-16,,giallo,Provincia autonoma Trento
+2020-12-17,,giallo,Provincia autonoma Trento
+2020-12-18,,giallo,Provincia autonoma Trento
+2020-12-19,,giallo,Provincia autonoma Trento
+2020-12-20,,giallo,Provincia autonoma Trento
+2020-12-21,,giallo,Provincia autonoma Trento
+2020-12-22,,giallo,Provincia autonoma Trento
+2020-12-23,,giallo,Provincia autonoma Trento
+2020-12-24,,rosso,Provincia autonoma Trento
+2020-12-25,,rosso,Provincia autonoma Trento
+2020-12-26,,rosso,Provincia autonoma Trento
+2020-12-27,,rosso,Provincia autonoma Trento
+2020-12-28,,arancione,Provincia autonoma Trento
+2020-12-29,,arancione,Provincia autonoma Trento
+2020-12-30,,arancione,Provincia autonoma Trento
+2020-12-31,,rosso,Provincia autonoma Trento
+2021-01-01,,rosso,Provincia autonoma Trento
+2021-01-02,,rosso,Provincia autonoma Trento
+2021-01-03,,rosso,Provincia autonoma Trento
+2021-01-04,,arancione,Provincia autonoma Trento
+2021-01-05,,rosso,Provincia autonoma Trento
+2021-01-06,,rosso,Provincia autonoma Trento
+2021-01-07,,giallo,Provincia autonoma Trento
+2021-01-08,,giallo,Provincia autonoma Trento
+2021-01-09,,arancione,Provincia autonoma Trento
+2021-01-10,,giallo,Provincia autonoma Trento
+2021-01-11,,giallo,Provincia autonoma Trento
+2021-01-12,,giallo,Provincia autonoma Trento
+2021-01-13,,giallo,Provincia autonoma Trento
+2021-01-14,,giallo,Provincia autonoma Trento
+2021-01-15,,giallo,Provincia autonoma Trento
+2021-01-16,,giallo,Provincia autonoma Trento
+2021-01-17,,giallo,Provincia autonoma Trento
+2021-01-18,,giallo,Provincia autonoma Trento
+2021-01-19,,giallo,Provincia autonoma Trento
+2021-01-20,,giallo,Provincia autonoma Trento
+2021-01-21,,giallo,Provincia autonoma Trento
+2021-01-22,,giallo,Provincia autonoma Trento
+2021-01-23,,giallo,Provincia autonoma Trento
+2021-01-24,,giallo,Provincia autonoma Trento
+2021-01-25,,giallo,Provincia autonoma Trento
+2021-01-26,,giallo,Provincia autonoma Trento
+2021-01-27,,giallo,Provincia autonoma Trento
+2021-01-28,,giallo,Provincia autonoma Trento
+2021-01-29,,giallo,Provincia autonoma Trento
+2021-01-30,,giallo,Provincia autonoma Trento
+2021-01-31,,giallo,Provincia autonoma Trento
+2021-02-01,,giallo,Provincia autonoma Trento
+2021-02-02,,giallo,Provincia autonoma Trento
+2021-02-03,,giallo,Provincia autonoma Trento
+2020-11-06,,giallo,Puglia
+2020-11-07,,giallo,Puglia
+2020-11-08,,giallo,Puglia
+2020-11-09,,giallo,Puglia
+2020-11-10,,giallo,Puglia
+2020-11-11,,giallo,Puglia
+2020-11-12,,giallo,Puglia
+2020-11-13,,giallo,Puglia
+2020-11-14,,giallo,Puglia
+2020-11-15,,giallo,Puglia
+2020-11-16,,giallo,Puglia
+2020-11-17,,giallo,Puglia
+2020-11-18,,giallo,Puglia
+2020-11-19,,giallo,Puglia
+2020-11-20,,arancione,Puglia
+2020-11-21,,arancione,Puglia
+2020-11-22,,arancione,Puglia
+2020-11-23,,arancione,Puglia
+2020-11-24,,arancione,Puglia
+2020-11-25,,arancione,Puglia
+2020-11-26,,arancione,Puglia
+2020-11-27,,arancione,Puglia
+2020-11-28,,arancione,Puglia
+2020-11-29,,arancione,Puglia
+2020-11-30,,arancione,Puglia
+2020-12-01,,arancione,Puglia
+2020-12-02,,arancione,Puglia
+2020-12-03,,arancione,Puglia
+2020-12-04,,arancione,Puglia
+2020-12-05,,arancione,Puglia
+2020-12-06,,giallo,Puglia
+2020-12-07,,giallo,Puglia
+2020-12-08,,giallo,Puglia
+2020-12-09,,giallo,Puglia
+2020-12-10,,giallo,Puglia
+2020-12-11,,giallo,Puglia
+2020-12-12,,giallo,Puglia
+2020-12-13,,giallo,Puglia
+2020-12-14,,giallo,Puglia
+2020-12-15,,giallo,Puglia
+2020-12-16,,giallo,Puglia
+2020-12-17,,giallo,Puglia
+2020-12-18,,giallo,Puglia
+2020-12-19,,giallo,Puglia
+2020-12-20,,giallo,Puglia
+2020-12-21,,giallo,Puglia
+2020-12-22,,giallo,Puglia
+2020-12-23,,giallo,Puglia
+2020-12-24,,rosso,Puglia
+2020-12-25,,rosso,Puglia
+2020-12-26,,rosso,Puglia
+2020-12-27,,rosso,Puglia
+2020-12-28,,arancione,Puglia
+2020-12-29,,arancione,Puglia
+2020-12-30,,arancione,Puglia
+2020-12-31,,rosso,Puglia
+2021-01-01,,rosso,Puglia
+2021-01-02,,rosso,Puglia
+2021-01-03,,rosso,Puglia
+2021-01-04,,arancione,Puglia
+2021-01-05,,rosso,Puglia
+2021-01-06,,rosso,Puglia
+2021-01-07,,giallo,Puglia
+2021-01-08,,giallo,Puglia
+2021-01-09,,arancione,Puglia
+2021-01-10,,giallo,Puglia
+2021-01-11,,giallo,Puglia
+2021-01-12,,giallo,Puglia
+2021-01-13,,giallo,Puglia
+2021-01-14,,giallo,Puglia
+2021-01-15,,giallo,Puglia
+2021-01-16,,giallo,Puglia
+2021-01-17,,arancione,Puglia
+2021-01-18,,arancione,Puglia
+2021-01-19,,arancione,Puglia
+2021-01-20,,arancione,Puglia
+2021-01-21,,arancione,Puglia
+2021-01-22,,arancione,Puglia
+2021-01-23,,arancione,Puglia
+2021-01-24,,arancione,Puglia
+2021-01-25,,arancione,Puglia
+2021-01-26,,arancione,Puglia
+2021-01-27,,arancione,Puglia
+2021-01-28,,arancione,Puglia
+2021-01-29,,arancione,Puglia
+2021-01-30,,arancione,Puglia
+2021-01-31,,arancione,Puglia
+2021-02-01,,arancione,Puglia
+2021-02-02,,arancione,Puglia
+2021-02-03,,arancione,Puglia
+2020-11-06,,giallo,Sardegna
+2020-11-07,,giallo,Sardegna
+2020-11-08,,giallo,Sardegna
+2020-11-09,,giallo,Sardegna
+2020-11-10,,giallo,Sardegna
+2020-11-11,,giallo,Sardegna
+2020-11-12,,giallo,Sardegna
+2020-11-13,,giallo,Sardegna
+2020-11-14,,giallo,Sardegna
+2020-11-15,,giallo,Sardegna
+2020-11-16,,giallo,Sardegna
+2020-11-17,,giallo,Sardegna
+2020-11-18,,giallo,Sardegna
+2020-11-19,,giallo,Sardegna
+2020-11-20,,giallo,Sardegna
+2020-11-21,,giallo,Sardegna
+2020-11-22,,giallo,Sardegna
+2020-11-23,,giallo,Sardegna
+2020-11-24,,giallo,Sardegna
+2020-11-25,,giallo,Sardegna
+2020-11-26,,giallo,Sardegna
+2020-11-27,,giallo,Sardegna
+2020-11-28,,giallo,Sardegna
+2020-11-29,,giallo,Sardegna
+2020-11-30,,giallo,Sardegna
+2020-12-01,,giallo,Sardegna
+2020-12-02,,giallo,Sardegna
+2020-12-03,,giallo,Sardegna
+2020-12-04,,giallo,Sardegna
+2020-12-05,,giallo,Sardegna
+2020-12-06,,giallo,Sardegna
+2020-12-07,,giallo,Sardegna
+2020-12-08,,giallo,Sardegna
+2020-12-09,,giallo,Sardegna
+2020-12-10,,giallo,Sardegna
+2020-12-11,,giallo,Sardegna
+2020-12-12,,giallo,Sardegna
+2020-12-13,,giallo,Sardegna
+2020-12-14,,giallo,Sardegna
+2020-12-15,,giallo,Sardegna
+2020-12-16,,giallo,Sardegna
+2020-12-17,,giallo,Sardegna
+2020-12-18,,giallo,Sardegna
+2020-12-19,,giallo,Sardegna
+2020-12-20,,giallo,Sardegna
+2020-12-21,,giallo,Sardegna
+2020-12-22,,giallo,Sardegna
+2020-12-23,,giallo,Sardegna
+2020-12-24,,rosso,Sardegna
+2020-12-25,,rosso,Sardegna
+2020-12-26,,rosso,Sardegna
+2020-12-27,,rosso,Sardegna
+2020-12-28,,arancione,Sardegna
+2020-12-29,,arancione,Sardegna
+2020-12-30,,arancione,Sardegna
+2020-12-31,,rosso,Sardegna
+2021-01-01,,rosso,Sardegna
+2021-01-02,,rosso,Sardegna
+2021-01-03,,rosso,Sardegna
+2021-01-04,,arancione,Sardegna
+2021-01-05,,rosso,Sardegna
+2021-01-06,,rosso,Sardegna
+2021-01-07,,giallo,Sardegna
+2021-01-08,,giallo,Sardegna
+2021-01-09,,arancione,Sardegna
+2021-01-10,,giallo,Sardegna
+2021-01-11,,giallo,Sardegna
+2021-01-12,,giallo,Sardegna
+2021-01-13,,giallo,Sardegna
+2021-01-14,,giallo,Sardegna
+2021-01-15,,giallo,Sardegna
+2021-01-16,,giallo,Sardegna
+2021-01-17,,giallo,Sardegna
+2021-01-18,,giallo,Sardegna
+2021-01-19,,giallo,Sardegna
+2021-01-20,,giallo,Sardegna
+2021-01-21,,giallo,Sardegna
+2021-01-22,,giallo,Sardegna
+2021-01-23,,giallo,Sardegna
+2021-01-24,,arancione,Sardegna
+2021-01-25,,arancione,Sardegna
+2021-01-26,,arancione,Sardegna
+2021-01-27,,arancione,Sardegna
+2021-01-28,,arancione,Sardegna
+2021-01-29,,arancione,Sardegna
+2021-01-30,,arancione,Sardegna
+2021-01-31,,arancione,Sardegna
+2021-02-01,,arancione,Sardegna
+2021-02-02,,arancione,Sardegna
+2021-02-03,,arancione,Sardegna
+2020-11-06,,giallo,Sicilia
+2020-11-07,,giallo,Sicilia
+2020-11-08,,giallo,Sicilia
+2020-11-09,,giallo,Sicilia
+2020-11-10,,giallo,Sicilia
+2020-11-11,,giallo,Sicilia
+2020-11-12,,giallo,Sicilia
+2020-11-13,,giallo,Sicilia
+2020-11-14,,giallo,Sicilia
+2020-11-15,,giallo,Sicilia
+2020-11-16,,giallo,Sicilia
+2020-11-17,,giallo,Sicilia
+2020-11-18,,giallo,Sicilia
+2020-11-19,,giallo,Sicilia
+2020-11-20,,arancione,Sicilia
+2020-11-21,,arancione,Sicilia
+2020-11-22,,arancione,Sicilia
+2020-11-23,,arancione,Sicilia
+2020-11-24,,arancione,Sicilia
+2020-11-25,,arancione,Sicilia
+2020-11-26,,arancione,Sicilia
+2020-11-27,,arancione,Sicilia
+2020-11-28,,arancione,Sicilia
+2020-11-29,,giallo,Sicilia
+2020-11-30,,giallo,Sicilia
+2020-12-01,,giallo,Sicilia
+2020-12-02,,giallo,Sicilia
+2020-12-03,,giallo,Sicilia
+2020-12-04,,giallo,Sicilia
+2020-12-05,,giallo,Sicilia
+2020-12-06,,giallo,Sicilia
+2020-12-07,,giallo,Sicilia
+2020-12-08,,giallo,Sicilia
+2020-12-09,,giallo,Sicilia
+2020-12-10,,giallo,Sicilia
+2020-12-11,,giallo,Sicilia
+2020-12-12,,giallo,Sicilia
+2020-12-13,,giallo,Sicilia
+2020-12-14,,giallo,Sicilia
+2020-12-15,,giallo,Sicilia
+2020-12-16,,giallo,Sicilia
+2020-12-17,,giallo,Sicilia
+2020-12-18,,giallo,Sicilia
+2020-12-19,,giallo,Sicilia
+2020-12-20,,giallo,Sicilia
+2020-12-21,,giallo,Sicilia
+2020-12-22,,giallo,Sicilia
+2020-12-23,,giallo,Sicilia
+2020-12-24,,rosso,Sicilia
+2020-12-25,,rosso,Sicilia
+2020-12-26,,rosso,Sicilia
+2020-12-27,,rosso,Sicilia
+2020-12-28,,arancione,Sicilia
+2020-12-29,,arancione,Sicilia
+2020-12-30,,arancione,Sicilia
+2020-12-31,,rosso,Sicilia
+2021-01-01,,rosso,Sicilia
+2021-01-02,,rosso,Sicilia
+2021-01-03,,rosso,Sicilia
+2021-01-04,,arancione,Sicilia
+2021-01-05,,rosso,Sicilia
+2021-01-06,,rosso,Sicilia
+2021-01-07,,giallo,Sicilia
+2021-01-08,,giallo,Sicilia
+2021-01-09,,arancione,Sicilia
+2021-01-10,,arancione,Sicilia
+2021-01-11,,arancione,Sicilia
+2021-01-12,,arancione,Sicilia
+2021-01-13,,arancione,Sicilia
+2021-01-14,,arancione,Sicilia
+2021-01-15,,arancione,Sicilia
+2021-01-16,,arancione,Sicilia
+2021-01-17,,rosso,Sicilia
+2021-01-18,,rosso,Sicilia
+2021-01-19,,rosso,Sicilia
+2021-01-20,,rosso,Sicilia
+2021-01-21,,rosso,Sicilia
+2021-01-22,,rosso,Sicilia
+2021-01-23,,rosso,Sicilia
+2021-01-24,,rosso,Sicilia
+2021-01-25,,rosso,Sicilia
+2021-01-26,,rosso,Sicilia
+2021-01-27,,rosso,Sicilia
+2021-01-28,,rosso,Sicilia
+2021-01-29,,rosso,Sicilia
+2021-01-30,,rosso,Sicilia
+2021-01-31,,rosso,Sicilia
+2021-02-01,,arancione,Sicilia
+2021-02-02,,arancione,Sicilia
+2021-02-03,,arancione,Sicilia
+2020-11-06,,giallo,Toscana
+2020-11-07,,giallo,Toscana
+2020-11-08,,giallo,Toscana
+2020-11-09,,giallo,Toscana
+2020-11-10,,arancione,Toscana
+2020-11-11,,arancione,Toscana
+2020-11-12,,arancione,Toscana
+2020-11-13,,arancione,Toscana
+2020-11-14,,arancione,Toscana
+2020-11-15,,rosso,Toscana
+2020-11-16,,rosso,Toscana
+2020-11-17,,rosso,Toscana
+2020-11-18,,rosso,Toscana
+2020-11-19,,rosso,Toscana
+2020-11-20,,rosso,Toscana
+2020-11-21,,rosso,Toscana
+2020-11-22,,rosso,Toscana
+2020-11-23,,rosso,Toscana
+2020-11-24,,rosso,Toscana
+2020-11-25,,rosso,Toscana
+2020-11-26,,rosso,Toscana
+2020-11-27,,rosso,Toscana
+2020-11-28,,rosso,Toscana
+2020-11-29,,rosso,Toscana
+2020-11-30,,rosso,Toscana
+2020-12-01,,rosso,Toscana
+2020-12-02,,rosso,Toscana
+2020-12-03,,rosso,Toscana
+2020-12-04,,rosso,Toscana
+2020-12-05,,rosso,Toscana
+2020-12-06,,arancione,Toscana
+2020-12-07,,arancione,Toscana
+2020-12-08,,arancione,Toscana
+2020-12-09,,arancione,Toscana
+2020-12-10,,arancione,Toscana
+2020-12-11,,arancione,Toscana
+2020-12-12,,arancione,Toscana
+2020-12-13,,arancione,Toscana
+2020-12-14,,arancione,Toscana
+2020-12-15,,arancione,Toscana
+2020-12-16,,arancione,Toscana
+2020-12-17,,arancione,Toscana
+2020-12-18,,arancione,Toscana
+2020-12-19,,arancione,Toscana
+2020-12-20,,arancione,Toscana
+2020-12-21,,arancione,Toscana
+2020-12-22,,arancione,Toscana
+2020-12-23,,arancione,Toscana
+2020-12-24,,rosso,Toscana
+2020-12-25,,rosso,Toscana
+2020-12-26,,rosso,Toscana
+2020-12-27,,rosso,Toscana
+2020-12-28,,arancione,Toscana
+2020-12-29,,arancione,Toscana
+2020-12-30,,arancione,Toscana
+2020-12-31,,rosso,Toscana
+2021-01-01,,rosso,Toscana
+2021-01-02,,rosso,Toscana
+2021-01-03,,rosso,Toscana
+2021-01-04,,arancione,Toscana
+2021-01-05,,rosso,Toscana
+2021-01-06,,rosso,Toscana
+2021-01-07,,giallo,Toscana
+2021-01-08,,giallo,Toscana
+2021-01-09,,arancione,Toscana
+2021-01-10,,giallo,Toscana
+2021-01-11,,giallo,Toscana
+2021-01-12,,giallo,Toscana
+2021-01-13,,giallo,Toscana
+2021-01-14,,giallo,Toscana
+2021-01-15,,giallo,Toscana
+2021-01-16,,giallo,Toscana
+2021-01-17,,giallo,Toscana
+2021-01-18,,giallo,Toscana
+2021-01-19,,giallo,Toscana
+2021-01-20,,giallo,Toscana
+2021-01-21,,giallo,Toscana
+2021-01-22,,giallo,Toscana
+2021-01-23,,giallo,Toscana
+2021-01-24,,giallo,Toscana
+2021-01-25,,giallo,Toscana
+2021-01-26,,giallo,Toscana
+2021-01-27,,giallo,Toscana
+2021-01-28,,giallo,Toscana
+2021-01-29,,giallo,Toscana
+2021-01-30,,giallo,Toscana
+2021-01-31,,giallo,Toscana
+2021-02-01,,giallo,Toscana
+2021-02-02,,giallo,Toscana
+2021-02-03,,giallo,Toscana
+2020-11-06,,giallo,Umbria
+2020-11-07,,giallo,Umbria
+2020-11-08,,giallo,Umbria
+2020-11-09,,giallo,Umbria
+2020-11-10,,arancione,Umbria
+2020-11-11,,arancione,Umbria
+2020-11-12,,arancione,Umbria
+2020-11-13,,arancione,Umbria
+2020-11-14,,arancione,Umbria
+2020-11-15,,arancione,Umbria
+2020-11-16,,arancione,Umbria
+2020-11-17,,arancione,Umbria
+2020-11-18,,arancione,Umbria
+2020-11-19,,arancione,Umbria
+2020-11-20,,arancione,Umbria
+2020-11-21,,arancione,Umbria
+2020-11-22,,arancione,Umbria
+2020-11-23,,arancione,Umbria
+2020-11-24,,arancione,Umbria
+2020-11-25,,arancione,Umbria
+2020-11-26,,arancione,Umbria
+2020-11-27,,arancione,Umbria
+2020-11-28,,arancione,Umbria
+2020-11-29,,arancione,Umbria
+2020-11-30,,arancione,Umbria
+2020-12-01,,arancione,Umbria
+2020-12-02,,arancione,Umbria
+2020-12-03,,arancione,Umbria
+2020-12-04,,arancione,Umbria
+2020-12-05,,arancione,Umbria
+2020-12-06,,giallo,Umbria
+2020-12-07,,giallo,Umbria
+2020-12-08,,giallo,Umbria
+2020-12-09,,giallo,Umbria
+2020-12-10,,giallo,Umbria
+2020-12-11,,giallo,Umbria
+2020-12-12,,giallo,Umbria
+2020-12-13,,giallo,Umbria
+2020-12-14,,giallo,Umbria
+2020-12-15,,giallo,Umbria
+2020-12-16,,giallo,Umbria
+2020-12-17,,giallo,Umbria
+2020-12-18,,giallo,Umbria
+2020-12-19,,giallo,Umbria
+2020-12-20,,giallo,Umbria
+2020-12-21,,giallo,Umbria
+2020-12-22,,giallo,Umbria
+2020-12-23,,giallo,Umbria
+2020-12-24,,rosso,Umbria
+2020-12-25,,rosso,Umbria
+2020-12-26,,rosso,Umbria
+2020-12-27,,rosso,Umbria
+2020-12-28,,arancione,Umbria
+2020-12-29,,arancione,Umbria
+2020-12-30,,arancione,Umbria
+2020-12-31,,rosso,Umbria
+2021-01-01,,rosso,Umbria
+2021-01-02,,rosso,Umbria
+2021-01-03,,rosso,Umbria
+2021-01-04,,arancione,Umbria
+2021-01-05,,rosso,Umbria
+2021-01-06,,rosso,Umbria
+2021-01-07,,giallo,Umbria
+2021-01-08,,giallo,Umbria
+2021-01-09,,arancione,Umbria
+2021-01-10,,giallo,Umbria
+2021-01-11,,giallo,Umbria
+2021-01-12,,giallo,Umbria
+2021-01-13,,giallo,Umbria
+2021-01-14,,giallo,Umbria
+2021-01-15,,giallo,Umbria
+2021-01-16,,giallo,Umbria
+2021-01-17,,arancione,Umbria
+2021-01-18,,arancione,Umbria
+2021-01-19,,arancione,Umbria
+2021-01-20,,arancione,Umbria
+2021-01-21,,arancione,Umbria
+2021-01-22,,arancione,Umbria
+2021-01-23,,arancione,Umbria
+2021-01-24,,arancione,Umbria
+2021-01-25,,arancione,Umbria
+2021-01-26,,arancione,Umbria
+2021-01-27,,arancione,Umbria
+2021-01-28,,arancione,Umbria
+2021-01-29,,arancione,Umbria
+2021-01-30,,arancione,Umbria
+2021-01-31,,arancione,Umbria
+2021-02-01,,arancione,Umbria
+2021-02-02,,arancione,Umbria
+2021-02-03,,arancione,Umbria
+2020-11-06,,giallo,Valle d'Aosta
+2020-11-07,,giallo,Valle d'Aosta
+2020-11-08,,giallo,Valle d'Aosta
+2020-11-09,,giallo,Valle d'Aosta
+2020-11-10,,giallo,Valle d'Aosta
+2020-11-11,,giallo,Valle d'Aosta
+2020-11-12,,giallo,Valle d'Aosta
+2020-11-13,,giallo,Valle d'Aosta
+2020-11-14,,giallo,Valle d'Aosta
+2020-11-15,,giallo,Valle d'Aosta
+2020-11-16,,giallo,Valle d'Aosta
+2020-11-17,,giallo,Valle d'Aosta
+2020-11-18,,giallo,Valle d'Aosta
+2020-11-19,,giallo,Valle d'Aosta
+2020-11-20,,rosso,Valle d'Aosta
+2020-11-21,,rosso,Valle d'Aosta
+2020-11-22,,rosso,Valle d'Aosta
+2020-11-23,,rosso,Valle d'Aosta
+2020-11-24,,rosso,Valle d'Aosta
+2020-11-25,,rosso,Valle d'Aosta
+2020-11-26,,rosso,Valle d'Aosta
+2020-11-27,,rosso,Valle d'Aosta
+2020-11-28,,rosso,Valle d'Aosta
+2020-11-29,,rosso,Valle d'Aosta
+2020-11-30,,rosso,Valle d'Aosta
+2020-12-01,,rosso,Valle d'Aosta
+2020-12-02,,rosso,Valle d'Aosta
+2020-12-03,,rosso,Valle d'Aosta
+2020-12-04,,rosso,Valle d'Aosta
+2020-12-05,,rosso,Valle d'Aosta
+2020-12-06,,arancione,Valle d'Aosta
+2020-12-07,,arancione,Valle d'Aosta
+2020-12-08,,arancione,Valle d'Aosta
+2020-12-09,,arancione,Valle d'Aosta
+2020-12-10,,arancione,Valle d'Aosta
+2020-12-11,,arancione,Valle d'Aosta
+2020-12-12,,arancione,Valle d'Aosta
+2020-12-13,,arancione,Valle d'Aosta
+2020-12-14,,arancione,Valle d'Aosta
+2020-12-15,,arancione,Valle d'Aosta
+2020-12-16,,arancione,Valle d'Aosta
+2020-12-17,,arancione,Valle d'Aosta
+2020-12-18,,arancione,Valle d'Aosta
+2020-12-19,,arancione,Valle d'Aosta
+2020-12-20,,arancione,Valle d'Aosta
+2020-12-21,,arancione,Valle d'Aosta
+2020-12-22,,arancione,Valle d'Aosta
+2020-12-23,,arancione,Valle d'Aosta
+2020-12-24,,rosso,Valle d'Aosta
+2020-12-25,,rosso,Valle d'Aosta
+2020-12-26,,rosso,Valle d'Aosta
+2020-12-27,,rosso,Valle d'Aosta
+2020-12-28,,arancione,Valle d'Aosta
+2020-12-29,,arancione,Valle d'Aosta
+2020-12-30,,arancione,Valle d'Aosta
+2020-12-31,,rosso,Valle d'Aosta
+2021-01-01,,rosso,Valle d'Aosta
+2021-01-02,,rosso,Valle d'Aosta
+2021-01-03,,rosso,Valle d'Aosta
+2021-01-04,,arancione,Valle d'Aosta
+2021-01-05,,rosso,Valle d'Aosta
+2021-01-06,,rosso,Valle d'Aosta
+2021-01-07,,giallo,Valle d'Aosta
+2021-01-08,,giallo,Valle d'Aosta
+2021-01-09,,arancione,Valle d'Aosta
+2021-01-10,,giallo,Valle d'Aosta
+2021-01-11,,giallo,Valle d'Aosta
+2021-01-12,,giallo,Valle d'Aosta
+2021-01-13,,giallo,Valle d'Aosta
+2021-01-14,,giallo,Valle d'Aosta
+2021-01-15,,giallo,Valle d'Aosta
+2021-01-16,,giallo,Valle d'Aosta
+2021-01-17,,arancione,Valle d'Aosta
+2021-01-18,,arancione,Valle d'Aosta
+2021-01-19,,arancione,Valle d'Aosta
+2021-01-20,,arancione,Valle d'Aosta
+2021-01-21,,arancione,Valle d'Aosta
+2021-01-22,,arancione,Valle d'Aosta
+2021-01-23,,arancione,Valle d'Aosta
+2021-01-24,,arancione,Valle d'Aosta
+2021-01-25,,arancione,Valle d'Aosta
+2021-01-26,,arancione,Valle d'Aosta
+2021-01-27,,arancione,Valle d'Aosta
+2021-01-28,,arancione,Valle d'Aosta
+2021-01-29,,arancione,Valle d'Aosta
+2021-01-30,,arancione,Valle d'Aosta
+2021-01-31,,arancione,Valle d'Aosta
+2021-02-01,,giallo,Valle d'Aosta
+2021-02-02,,giallo,Valle d'Aosta
+2021-02-03,,giallo,Valle d'Aosta
+2020-11-06,,giallo,Veneto
+2020-11-07,,giallo,Veneto
+2020-11-08,,giallo,Veneto
+2020-11-09,,giallo,Veneto
+2020-11-10,,giallo,Veneto
+2020-11-11,,giallo,Veneto
+2020-11-12,,giallo,Veneto
+2020-11-13,,giallo,Veneto
+2020-11-14,,giallo,Veneto
+2020-11-15,,giallo,Veneto
+2020-11-16,,giallo,Veneto
+2020-11-17,,giallo,Veneto
+2020-11-18,,giallo,Veneto
+2020-11-19,,giallo,Veneto
+2020-11-20,,giallo,Veneto
+2020-11-21,,giallo,Veneto
+2020-11-22,,giallo,Veneto
+2020-11-23,,giallo,Veneto
+2020-11-24,,giallo,Veneto
+2020-11-25,,giallo,Veneto
+2020-11-26,,giallo,Veneto
+2020-11-27,,giallo,Veneto
+2020-11-28,,giallo,Veneto
+2020-11-29,,giallo,Veneto
+2020-11-30,,giallo,Veneto
+2020-12-01,,giallo,Veneto
+2020-12-02,,giallo,Veneto
+2020-12-03,,giallo,Veneto
+2020-12-04,,giallo,Veneto
+2020-12-05,,giallo,Veneto
+2020-12-06,,giallo,Veneto
+2020-12-07,,giallo,Veneto
+2020-12-08,,giallo,Veneto
+2020-12-09,,giallo,Veneto
+2020-12-10,,giallo,Veneto
+2020-12-11,,giallo,Veneto
+2020-12-12,,giallo,Veneto
+2020-12-13,,giallo,Veneto
+2020-12-14,,giallo,Veneto
+2020-12-15,,giallo,Veneto
+2020-12-16,,giallo,Veneto
+2020-12-17,,giallo,Veneto
+2020-12-18,,giallo,Veneto
+2020-12-19,,giallo,Veneto
+2020-12-20,,giallo,Veneto
+2020-12-21,,giallo,Veneto
+2020-12-22,,giallo,Veneto
+2020-12-23,,giallo,Veneto
+2020-12-24,,rosso,Veneto
+2020-12-25,,rosso,Veneto
+2020-12-26,,rosso,Veneto
+2020-12-27,,rosso,Veneto
+2020-12-28,,arancione,Veneto
+2020-12-29,,arancione,Veneto
+2020-12-30,,arancione,Veneto
+2020-12-31,,rosso,Veneto
+2021-01-01,,rosso,Veneto
+2021-01-02,,rosso,Veneto
+2021-01-03,,rosso,Veneto
+2021-01-04,,arancione,Veneto
+2021-01-05,,rosso,Veneto
+2021-01-06,,rosso,Veneto
+2021-01-07,,giallo,Veneto
+2021-01-08,,giallo,Veneto
+2021-01-09,,arancione,Veneto
+2021-01-10,,arancione,Veneto
+2021-01-11,,arancione,Veneto
+2021-01-12,,arancione,Veneto
+2021-01-13,,arancione,Veneto
+2021-01-14,,arancione,Veneto
+2021-01-15,,arancione,Veneto
+2021-01-16,,arancione,Veneto
+2021-01-17,,arancione,Veneto
+2021-01-18,,arancione,Veneto
+2021-01-19,,arancione,Veneto
+2021-01-20,,arancione,Veneto
+2021-01-21,,arancione,Veneto
+2021-01-22,,arancione,Veneto
+2021-01-23,,arancione,Veneto
+2021-01-24,,arancione,Veneto
+2021-01-25,,arancione,Veneto
+2021-01-26,,arancione,Veneto
+2021-01-27,,arancione,Veneto
+2021-01-28,,arancione,Veneto
+2021-01-29,,arancione,Veneto
+2021-01-30,,arancione,Veneto
+2021-01-31,,arancione,Veneto
+2021-02-01,,giallo,Veneto
+2021-02-02,,giallo,Veneto
+2021-02-03,,giallo,Veneto
