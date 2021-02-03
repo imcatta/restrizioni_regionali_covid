@@ -31,4 +31,4 @@ I am documenting the methodology used and I will soon make it public.
 |---------------------------|----------------------------------|------------------------------------------------|------------|
 | **data**                  | Date of notification             | YYYY-MM-DD                                     | 2020-12-20 |
 | **denominazione_regione** | Name of the Region               | string                                         | Abruzzo    |
-| **colore**                | Livello di rischio della regione | 'rosso' \| 'arancione' \| 'giallo' \| 'bianco' | rosso      |
+| **colore**                | Level of risk of the region      | 'rosso' \| 'arancione' \| 'giallo' \| 'bianco' | rosso      |
