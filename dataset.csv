@@ -185,6 +185,7 @@ data,denominazione_regione,colore
 2021-05-08,Abruzzo,giallo
 2021-05-09,Abruzzo,giallo
 2021-05-10,Abruzzo,giallo
+2021-05-11,Abruzzo,giallo
 2020-11-06,Basilicata,giallo
 2020-11-07,Basilicata,giallo
 2020-11-08,Basilicata,giallo
@@ -371,6 +372,7 @@ data,denominazione_regione,colore
 2021-05-08,Basilicata,arancione
 2021-05-09,Basilicata,arancione
 2021-05-10,Basilicata,giallo
+2021-05-11,Basilicata,giallo
 2020-11-06,Calabria,rosso
 2020-11-07,Calabria,rosso
 2020-11-08,Calabria,rosso
@@ -557,6 +559,7 @@ data,denominazione_regione,colore
 2021-05-08,Calabria,arancione
 2021-05-09,Calabria,arancione
 2021-05-10,Calabria,giallo
+2021-05-11,Calabria,giallo
 2020-11-06,Campania,giallo
 2020-11-07,Campania,giallo
 2020-11-08,Campania,giallo
@@ -743,6 +746,7 @@ data,denominazione_regione,colore
 2021-05-08,Campania,giallo
 2021-05-09,Campania,giallo
 2021-05-10,Campania,giallo
+2021-05-11,Campania,giallo
 2020-11-06,Emilia-Romagna,giallo
 2020-11-07,Emilia-Romagna,giallo
 2020-11-08,Emilia-Romagna,giallo
@@ -929,6 +933,7 @@ data,denominazione_regione,colore
 2021-05-08,Emilia-Romagna,giallo
 2021-05-09,Emilia-Romagna,giallo
 2021-05-10,Emilia-Romagna,giallo
+2021-05-11,Emilia-Romagna,giallo
 2020-11-06,Friuli Venezia Giulia,giallo
 2020-11-07,Friuli Venezia Giulia,giallo
 2020-11-08,Friuli Venezia Giulia,giallo
@@ -1115,6 +1120,7 @@ data,denominazione_regione,colore
 2021-05-08,Friuli Venezia Giulia,giallo
 2021-05-09,Friuli Venezia Giulia,giallo
 2021-05-10,Friuli Venezia Giulia,giallo
+2021-05-11,Friuli Venezia Giulia,giallo
 2020-11-06,Lazio,giallo
 2020-11-07,Lazio,giallo
 2020-11-08,Lazio,giallo
@@ -1301,6 +1307,7 @@ data,denominazione_regione,colore
 2021-05-08,Lazio,giallo
 2021-05-09,Lazio,giallo
 2021-05-10,Lazio,giallo
+2021-05-11,Lazio,giallo
 2020-11-06,Liguria,giallo
 2020-11-07,Liguria,giallo
 2020-11-08,Liguria,giallo
@@ -1487,6 +1494,7 @@ data,denominazione_regione,colore
 2021-05-08,Liguria,giallo
 2021-05-09,Liguria,giallo
 2021-05-10,Liguria,giallo
+2021-05-11,Liguria,giallo
 2020-11-06,Lombardia,rosso
 2020-11-07,Lombardia,rosso
 2020-11-08,Lombardia,rosso
@@ -1673,6 +1681,7 @@ data,denominazione_regione,colore
 2021-05-08,Lombardia,giallo
 2021-05-09,Lombardia,giallo
 2021-05-10,Lombardia,giallo
+2021-05-11,Lombardia,giallo
 2020-11-06,Marche,giallo
 2020-11-07,Marche,giallo
 2020-11-08,Marche,giallo
@@ -1859,6 +1868,7 @@ data,denominazione_regione,colore
 2021-05-08,Marche,giallo
 2021-05-09,Marche,giallo
 2021-05-10,Marche,giallo
+2021-05-11,Marche,giallo
 2020-11-06,Molise,giallo
 2020-11-07,Molise,giallo
 2020-11-08,Molise,giallo
@@ -2045,6 +2055,7 @@ data,denominazione_regione,colore
 2021-05-08,Molise,giallo
 2021-05-09,Molise,giallo
 2021-05-10,Molise,giallo
+2021-05-11,Molise,giallo
 2020-11-06,Piemonte,rosso
 2020-11-07,Piemonte,rosso
 2020-11-08,Piemonte,rosso
@@ -2231,6 +2242,7 @@ data,denominazione_regione,colore
 2021-05-08,Piemonte,giallo
 2021-05-09,Piemonte,giallo
 2021-05-10,Piemonte,giallo
+2021-05-11,Piemonte,giallo
 2020-11-06,Provincia autonoma Bolzano,giallo
 2020-11-07,Provincia autonoma Bolzano,giallo
 2020-11-08,Provincia autonoma Bolzano,giallo
@@ -2417,6 +2429,7 @@ data,denominazione_regione,colore
 2021-05-08,Provincia autonoma Bolzano,giallo
 2021-05-09,Provincia autonoma Bolzano,giallo
 2021-05-10,Provincia autonoma Bolzano,giallo
+2021-05-11,Provincia autonoma Bolzano,giallo
 2020-11-06,Provincia autonoma Trento,giallo
 2020-11-07,Provincia autonoma Trento,giallo
 2020-11-08,Provincia autonoma Trento,giallo
@@ -2603,6 +2616,7 @@ data,denominazione_regione,colore
 2021-05-08,Provincia autonoma Trento,giallo
 2021-05-09,Provincia autonoma Trento,giallo
 2021-05-10,Provincia autonoma Trento,giallo
+2021-05-11,Provincia autonoma Trento,giallo
 2020-11-06,Puglia,arancione
 2020-11-07,Puglia,arancione
 2020-11-08,Puglia,arancione
@@ -2789,6 +2803,7 @@ data,denominazione_regione,colore
 2021-05-08,Puglia,arancione
 2021-05-09,Puglia,arancione
 2021-05-10,Puglia,giallo
+2021-05-11,Puglia,giallo
 2020-11-06,Sardegna,giallo
 2020-11-07,Sardegna,giallo
 2020-11-08,Sardegna,giallo
@@ -2975,6 +2990,7 @@ data,denominazione_regione,colore
 2021-05-08,Sardegna,arancione
 2021-05-09,Sardegna,arancione
 2021-05-10,Sardegna,arancione
+2021-05-11,Sardegna,arancione
 2020-11-06,Sicilia,arancione
 2020-11-07,Sicilia,arancione
 2020-11-08,Sicilia,arancione
@@ -3161,6 +3177,7 @@ data,denominazione_regione,colore
 2021-05-08,Sicilia,arancione
 2021-05-09,Sicilia,arancione
 2021-05-10,Sicilia,arancione
+2021-05-11,Sicilia,arancione
 2020-11-06,Toscana,giallo
 2020-11-07,Toscana,giallo
 2020-11-08,Toscana,giallo
@@ -3347,6 +3364,7 @@ data,denominazione_regione,colore
 2021-05-08,Toscana,giallo
 2021-05-09,Toscana,giallo
 2021-05-10,Toscana,giallo
+2021-05-11,Toscana,giallo
 2020-11-06,Umbria,giallo
 2020-11-07,Umbria,giallo
 2020-11-08,Umbria,giallo
@@ -3533,6 +3551,7 @@ data,denominazione_regione,colore
 2021-05-08,Umbria,giallo
 2021-05-09,Umbria,giallo
 2021-05-10,Umbria,giallo
+2021-05-11,Umbria,giallo
 2020-11-06,Valle d'Aosta,rosso
 2020-11-07,Valle d'Aosta,rosso
 2020-11-08,Valle d'Aosta,rosso
@@ -3719,6 +3738,7 @@ data,denominazione_regione,colore
 2021-05-08,Valle d'Aosta,rosso
 2021-05-09,Valle d'Aosta,rosso
 2021-05-10,Valle d'Aosta,arancione
+2021-05-11,Valle d'Aosta,arancione
 2020-11-06,Veneto,giallo
 2020-11-07,Veneto,giallo
 2020-11-08,Veneto,giallo
@@ -3905,3 +3925,4 @@ data,denominazione_regione,colore
 2021-05-08,Veneto,giallo
 2021-05-09,Veneto,giallo
 2021-05-10,Veneto,giallo
+2021-05-11,Veneto,giallo
