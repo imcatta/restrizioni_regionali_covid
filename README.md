@@ -14,7 +14,7 @@ Con l'obiettivo di facilitare l'accesso a tali informazioni questo repository le
 
 ### Articoli scientifici che usano questo dataset
 
-- Cattaneo, A., Vitali, A., Mazzoleni, M., & Previdi, F. (2022). *An agent-based model to assess large-scale COVID-19 vaccination campaigns for the Italian territory: The case study of Lombardy region*. Computer Methods and Programs in Biomedicine, 224, 107029.
+- Cattaneo, A., Vitali, A., Mazzoleni, M., & Previdi, F. (2022). *An agent-based model to assess large-scale COVID-19 vaccination campaigns for the Italian territory: The case study of Lombardy region*. Computer Methods and Programs in Biomedicine, 224, 107029. [https://doi.org/10.1016/j.cmpb.2022.107029](https://doi.org/10.1016/j.cmpb.2022.107029https://doi.org/10.1016/j.cmpb.2022.107029).
 
 
 ---
@@ -39,5 +39,5 @@ I am documenting the methodology used and I will soon make it public.
 
 ### Scientific papers using this dataset
 
-- Cattaneo, A., Vitali, A., Mazzoleni, M., & Previdi, F. (2022). *An agent-based model to assess large-scale COVID-19 vaccination campaigns for the Italian territory: The case study of Lombardy region*. Computer Methods and Programs in Biomedicine, 224, 107029.
+- Cattaneo, A., Vitali, A., Mazzoleni, M., & Previdi, F. (2022). *An agent-based model to assess large-scale COVID-19 vaccination campaigns for the Italian territory: The case study of Lombardy region*. Computer Methods and Programs in Biomedicine, 224, 107029. [https://doi.org/10.1016/j.cmpb.2022.107029](https://doi.org/10.1016/j.cmpb.2022.107029https://doi.org/10.1016/j.cmpb.2022.107029).
 
